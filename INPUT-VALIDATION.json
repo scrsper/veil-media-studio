@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-21T18:01:19.008Z",
+  "environment": "Happy DOM with simulated standard Gamepad API; not physical controller verification",
+  "passed": 25,
+  "checks": [
+    "Activation press only arms new controller",
+    "Held confirm activates only once",
+    "Initial increment is one step",
+    "Held direction repeats after delay",
+    "Slider clamps upper bound and dispatches input",
+    "Controller changes native choices",
+    "Controller toggles checkbox",
+    "Bumper switches main tab",
+    "Panel shortcut enters left panel",
+    "Controller opens in-page color editor",
+    "Color channel edits original input",
+    "Cancel restores color and focus",
+    "Keyboard opens same editor",
+    "Controller light editing supports both axes and exit",
+    "Stick dead zone suppresses camera drift",
+    "Right stick drives camera",
+    "Dialog blocks camera input",
+    "Holding confirm through load cannot reactivate preset",
+    "Confirm works after load and neutral release",
+    "Background and resume do not activate held buttons",
+    "Keyboard F6 advances panel",
+    "Keyboard camera action",
+    "Focus restored after dynamic panel rebuild",
+    "Disconnect restores keyboard hints",
+    "Adapter cleans up DOM and keyboard listeners"
+  ]
+}

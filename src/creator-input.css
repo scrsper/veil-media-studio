@@ -1,0 +1,25 @@
+/* Additive input affordances; the creator's art and layout remain unchanged. */
+#app :is(button,input,select,summary,[tabindex]):focus-visible,
+#app[data-input="controller"] :is(button,input,select,summary,[tabindex]):focus {
+  outline: 2px solid #f2d58d; outline-offset: 3px; box-shadow: 0 0 0 5px #0b211ddd;
+}
+#app :is(button,input,select,summary) { scroll-margin: 12px; }
+#app input[type="range"] { cursor: ew-resize; }
+.input-toolbar { position: fixed; z-index: 12; left: 24px; bottom: 39px; display: flex; align-items: center; gap: 12px; color: #c7d2bc; font: 11px 'Segoe UI',sans-serif; }
+.input-toolbar > span { background: #081b15dd; border-radius: 4px; padding: 7px 9px; }
+.input-toolbar button { background: #102c22; color: #e5cf94; border: 1px solid #9e865b; border-radius: 5px; padding: 7px 10px; min-height: 32px; }
+@media (min-width:801px) { .input-toolbar { max-width: 300px; flex-wrap: wrap; gap: 5px; } #app .appearance-tools { bottom: 120px; } }
+kbd { font: inherit; color: #ead49a; }
+.input-dialog { color: #dce2d1; background: #0c221b; border: 1px solid #b69b63; border-radius: 10px; padding: 26px; width: min(680px,calc(100vw - 32px)); max-height: 85dvh; overflow: auto; box-shadow: 0 20px 80px #000a; font: 14px/1.7 'Segoe UI',sans-serif; }
+.input-dialog::backdrop { background: #030c09c9; }
+.input-dialog h2 { font: 28px Georgia,serif; color: #ead5a0; margin-top: 0; }
+.input-dialog h3 { color: #d9c18a; font-size: 16px; }
+.input-dialog p { color: #bdcbbc; }
+.control-guide { display: grid; grid-template-columns: 1fr 1fr; gap: 26px; }
+.input-dialog button { padding: 10px 24px; border: 1px solid #c0a46a; border-radius: 5px; color: #ead5a0; background: #214232; min-height: 40px; }
+.color-preview { height: 44px; border: 1px solid #c2b48c; border-radius: 5px; }
+.color-channels label { display: grid; grid-template-columns: 55px 1fr 35px; align-items: center; gap: 16px; margin: 20px 0; }
+.color-channels input { width: 100%; accent-color: #d1b576; }
+#app[data-input="controller"] .body-control:focus-within { background: #c3a75d12; border-radius: 5px; }
+@media (max-width:1150px) { .input-toolbar { bottom: 40px; left: 20px; max-width: 280px; flex-wrap: wrap; gap: 4px; } }
+@media (max-width:800px) { .input-toolbar { position: relative; left: auto; bottom: auto; max-width: none; margin: 16px; padding-bottom: 12px; } .control-guide { grid-template-columns: 1fr; gap: 0; } }

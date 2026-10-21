@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-21T18:01:19.285Z",
+  "environment": "Happy DOM with mocked WebGL/canvas export; no visual render assertion",
+  "passed": 11,
+  "checks": [
+    "Transparent landscape exports at exact resolution without camera offset",
+    "Export restores live renderer pixel ratio, size, view and background",
+    "Portrait background and dimensions are honored",
+    "Shot preserves existing appearance and captures camera/output",
+    "Shot reload restores camera, orbit target and output selection",
+    "Invalid shot camera is ignored",
+    "Loading blocks exports and incomplete snapshots",
+    "Failed encoding restores renderer and re-enables capture",
+    "Clean stage focuses visible return button",
+    "Escape returns to editor and restores focus",
+    "Dispose removes media UI"
+  ]
+}

@@ -1,0 +1,43 @@
+VEIL CREATOR — MOUSE, KEYBOARD AND CONTROLLER
+
+Mouse: existing buttons, color picker, sliders, drag orbit and wheel zoom remain.
+Keyboard: Tab / Shift+Tab focuses controls; Enter / Space activates them; native
+slider arrows adjust values. F6 / Shift+F6 changes panels. Q / E changes main
+sections outside text entry. Focus the character canvas for arrow-key orbit and
++ / - zoom. ? opens the guide; Escape closes it or returns to section navigation.
+Enter / Space on a color opens the in-page RGB editor. Escape cancels color edits.
+
+Standard controller (Xbox / PlayStation equivalents):
+- Connect, focus the creator and press/release a button once to activate.
+- D-pad / left stick: navigate controls and thumbnail grids.
+- Left / right on sliders and dropdowns: adjust values / choices.
+- A / Cross: activate, toggle, open RGB editor, or enter/leave light-pad adjustment.
+- B / Circle: cancel color, leave light-pad adjustment, close disclosure or return to tabs.
+- LB RB / L1 R1: previous / next main section.
+- Y / Triangle: cycle panels, including camera buttons and the Controls guide.
+- Right stick: orbit. LT RT / L2 R2: zoom out / in.
+- Menu / Options: controls guide.
+
+Focus scrolls into view and survives dynamic preset/category rebuilds.
+The adapter uses a 0.25 stick dead zone, a 380ms initial navigation repeat delay,
+and 110ms repeat interval. Confirm/tab/panel actions never auto-repeat.
+Loading, background focus loss and reconnect require neutral controls before resuming.
+Mouse, keyboard and controller all operate the existing appearance state and handlers.
+No model, material, animation, rig, morph, preset or saved-format changes were made.
+
+INTEGRATION
+src/creator-input.ts exports installCreatorInput({root,canvas,busy,camera}).
+Call step(timestampMs,deltaSeconds) once per renderer frame. Call dispose() when
+unmounting. The current main.ts wires both, including Vite hot-module cleanup.
+Camera deltas are relative yaw/pitch and logarithmic zoom; main.ts applies the
+existing orbit distance limits. Input polling only runs while the document has focus.
+If embedding cross-origin, configure the host's Gamepad Permissions Policy as
+required by the target browser, and let the user focus the iframe before control.
+Raw or nonstandard controller layouts are not guessed; use browser-standard mapping.
+File import still uses the operating system file picker, which may need keyboard/mouse.
+
+VALIDATION
+TypeScript / Vite build passed. 25 deterministic tests used simulated Gamepad API
+input in Happy DOM (see INPUT-VALIDATION.json). Browser checks verified keyboard
+slider steps, panel/section shortcuts, color update/cancel, preset focus restoration,
+mouse selection and rendered controls guide. No physical controller was tested.

@@ -1,0 +1,16 @@
+{
+  "models": [
+    {
+      "file": "public/assets/Veil_Female_OriginalSkin.glb",
+      "visibilityMaterialIndices": [
+        2
+      ]
+    },
+    {
+      "file": "public/assets/Veil_Male_OriginalSkin.glb",
+      "visibilityMaterialIndices": [
+        2
+      ]
+    }
+  ]
+}
