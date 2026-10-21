@@ -11,3 +11,7 @@ Run `npm ci`, `npm run verify:assets`, `npm test`, then `npm run build`. The com
 ## Packaging validation
 
 Verified all 792 assets and all 229 model-to-attribution mappings against actual SHA-256 values. All external image/buffer references resolve. The 25 simulated input checks, 11 media logic checks, TypeScript check and production build pass. A credential-pattern scan of application/test sources found no matches. Runtime Three.js and KawaiiPhysics license notices are included.
+
+## GitHub publication
+
+Private repository: https://github.com/scrsper/veil-media-studio. Initial source and full LFS library upload succeeded. Included the existing standalone hair-gallery files as well as the main creator. A complete release ZIP is prepared separately from GitHub's source archive.
