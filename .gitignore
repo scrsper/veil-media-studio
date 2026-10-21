@@ -1,0 +1,7 @@
+node_modules/
+dist/
+*.log
+exports/
+*.zip
+tests/*-bundle.mjs
+PACKAGE-VALIDATION.json

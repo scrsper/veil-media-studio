@@ -1,0 +1,13 @@
+.media-panel{border:1px solid var(--line);border-radius:8px;padding:14px;margin:0 0 20px;background:#091c15e6}
+.media-panel h2{font:16px Georgia,serif;color:#ebddb7;margin:0 0 12px}
+.media-panel .cosmetic-field{font-size:11px;margin:12px 0;gap:6px}
+.media-panel select{font-size:11px;padding:8px;max-width:100%}
+.media-buttons{display:grid;grid-template-columns:1fr 1fr;gap:7px;margin:14px 0}
+.media-buttons button{padding:10px 5px;font-size:11px;border:1px solid var(--line);border-radius:4px}
+.media-buttons .primary{grid-column:1/-1}
+.media-panel .cosmetic-note,#media-status{font-size:10px;line-height:1.6;margin:10px 0 0}
+#media-status{color:#d5c08c;min-height:2em}
+.media-return{position:absolute;bottom:24px;right:24px;z-index:60;padding:12px 20px;border:1px solid var(--gold);border-radius:5px;background:#0b2019e8}
+.media-clean-stage>.game-header,.media-clean-stage>.appearance-tools,.media-clean-stage>.editor,.media-clean-stage>.camera,.media-clean-stage>.scene-caption,.media-clean-stage>#notice,.media-clean-stage>.input-toolbar{visibility:hidden;pointer-events:none}
+.media-clean-stage::before{display:none}
+@media(max-width:700px){.appearance-tools .media-panel{display:none}}

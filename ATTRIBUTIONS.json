@@ -1,0 +1,2769 @@
+{
+  "format": "veil-external-attribution-v1",
+  "createdUtc": "2026-10-21T15:28:26.387277+00:00",
+  "scope": "Editing copies only. Attribution is externalized, not disclaimed or reassigned. Keep this document with the models.",
+  "originRecord": "ASSET-ORIGIN.md",
+  "softwareLicense": "KawaiiPhysics-LICENSE.txt",
+  "sourceRoot": null,
+  "models": [
+    {
+      "editingModelId": "veil-edit-b92f267b-5d23-490b-8151-35df948e3a79",
+      "file": "public/assets/hair/Veil_Female_Hair_000.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_000.glb",
+      "sourceSha256": "28ec74e0df3b60b2464ddaeda69824e1d22fa29cb001b875029756c711aca758",
+      "editingSha256": "8114a50082cc8c9435fac34e0cc0bf1333f92f2c1f5887fa8eed76af944c2a55",
+      "unchangedBinaryChunksSha256": "1be0b97bc7f10d694bac4d173e320d9806c75db0ec0ca74ef4d6fc30c1169ee7",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-296b4677-e816-458c-8925-54e11da4ba02",
+      "file": "public/assets/hair/Veil_Female_Hair_001.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_001.glb",
+      "sourceSha256": "64cf33e78ccc480e71261bf52ca17d05c1169f7b112618bae50e2503394e6751",
+      "editingSha256": "93cf24d9a8e27d717ad62a973b453eb45c12be3ec24c59e477daf0eae97381d4",
+      "unchangedBinaryChunksSha256": "438fee67fb4fa4a53908a71859fb35932c09429a387b47e17392217b2a3ffd4e",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-161f55da-9d6c-40ed-9198-a99321b83279",
+      "file": "public/assets/hair/Veil_Female_Hair_002.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_002.glb",
+      "sourceSha256": "ea075cbb8efe10b80c245b2a5eb6b33222d59e5b55911af6796681447d004926",
+      "editingSha256": "4e5211811d447f04eac8e019714af01284e8a8fd9688bc667b439bfe13d814a8",
+      "unchangedBinaryChunksSha256": "f58e35ed6c551f2c0a15008b879a40db35d95999bf3af9c46d567df3f1105004",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-1e6dcc5c-e482-41e9-9ce5-162c223a1550",
+      "file": "public/assets/hair/Veil_Female_Hair_003.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_003.glb",
+      "sourceSha256": "b46f6944c7cdf1aab89c970858c1a6bc962dbe4788ae329a7cb03024be964b1b",
+      "editingSha256": "6b964775015a2f5b043a3df687c9db7dc38c8be06ece1fe7471e77dcfa3eaaeb",
+      "unchangedBinaryChunksSha256": "88f6a55a5df63ea88a1ed0e05f017e3cc4749b02f7b3d6e993834e6aaa96c229",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-2bc21696-977d-41da-95b3-a68c01cac9c8",
+      "file": "public/assets/hair/Veil_Female_Hair_004.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_004.glb",
+      "sourceSha256": "37a193d3502417bc75b4a3a42123010c93b07815fc6cdc6451601fea16b22227",
+      "editingSha256": "c640130880f5bd3f93bc50f90df6b677b4ade14c85530d1e37904c524b2ab3bb",
+      "unchangedBinaryChunksSha256": "3f5aa0658e401a6afc96b68f3af8d01ec66b30c7d18559b2befbf132b26289b9",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-abffd640-823e-446f-aa85-7b271c2615db",
+      "file": "public/assets/hair/Veil_Female_Hair_005.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_005.glb",
+      "sourceSha256": "a5673843b0406f6dc1a9c19261e9436229b140241f6b790de21876547694eabc",
+      "editingSha256": "da562298c2848786395513b070243c2d1dee9233166c97dbb6d40a638b406bfa",
+      "unchangedBinaryChunksSha256": "6d77498d6004034b02e1ff92ad44a02a94b063ca2cd70a03ec93e2c0897fda04",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-346ad2be-f246-467f-92c9-8890c19a8173",
+      "file": "public/assets/hair/Veil_Female_Hair_006.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_006.glb",
+      "sourceSha256": "dd20968693b1b1a321c269711157a1a31148669766a53bb5d9f2e799903997a3",
+      "editingSha256": "273e5996ec4ceb57f9fac870a2b3dd5619da59b744bcff4290d7b1037932d081",
+      "unchangedBinaryChunksSha256": "2871fbf343b88b5ebf9b3c13dd43384905294fe041584d89ec7dc50947137443",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-1538b815-4de9-4f50-baa1-388000438e70",
+      "file": "public/assets/hair/Veil_Female_Hair_007.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_007.glb",
+      "sourceSha256": "62c9c01f9cd569bac5ae121b17f8d402e3fd09a938beed49802f83ec893c55d6",
+      "editingSha256": "e1f95a5de2c99feeb6133d40525805f4cd942c16c4bc02a2f44195b748314dee",
+      "unchangedBinaryChunksSha256": "f11aee69253acbf1159d27af8c168364972e9e08fb8f934693ba3467c471749c",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-ee5740b5-3c5b-4cbe-bc1b-8266e72a2185",
+      "file": "public/assets/hair/Veil_Female_Hair_008.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_008.glb",
+      "sourceSha256": "9b3974f1190ff4324877983deac205678dc55d8902b744759881a1b9e39c9a4d",
+      "editingSha256": "ec9f44fc5c9a7b567cdace39fd4f37eba2288bd74bffd1209769c112d794ac54",
+      "unchangedBinaryChunksSha256": "c671c9bbcdb348dcf38414f86a79d93cda224d061b0291f0a29c6981085063fa",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-9cd0014f-d574-42bf-afec-d690d6bbf035",
+      "file": "public/assets/hair/Veil_Female_Hair_009.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_009.glb",
+      "sourceSha256": "7e27a59b5990d5a92080f50ba86df6b5fab24c911360a3ced5dd8fd1701541e1",
+      "editingSha256": "03e12348dcc109e877e436af5add1df94721069468d747267598f227952f8492",
+      "unchangedBinaryChunksSha256": "f6989090ce01e9bd1f9f969e77ff772ced1ce62427b74401186b190fd4c8f4a9",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-dde02875-606f-465a-ad44-4cb08afa7133",
+      "file": "public/assets/hair/Veil_Female_Hair_010.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_010.glb",
+      "sourceSha256": "81ddb744c5bc21c74ba9eefc955db4ddc2c94dfc688ca3a38ff71a5f1a5e0d82",
+      "editingSha256": "bc12ca0666cd5944cc51883f020c64128df32e4090b8f36425f34bf3b73887b0",
+      "unchangedBinaryChunksSha256": "4ad5ed27b7ab614efda0be8f924eb27ea19f36383f245a888d98ed23172f7411",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-fc352b1d-f147-4daf-bf3d-8b821ee23046",
+      "file": "public/assets/hair/Veil_Female_Hair_011.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_011.glb",
+      "sourceSha256": "57d5bbe6c149bd57f117ddec6677df29529988d95ce5f654d24a976cb9bfb5d3",
+      "editingSha256": "fde32da0315283554dd7c3640c0cb46f543eb01252214ea72cd6c65092bb200a",
+      "unchangedBinaryChunksSha256": "8b68972578bb54e36f6b2407588cfb6b880b304e316399e5a1d08a799139902f",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-7daddf7b-89b0-42d5-987b-ff18b4680488",
+      "file": "public/assets/hair/Veil_Female_Hair_012.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_012.glb",
+      "sourceSha256": "7363a2eaee162e13d3322d7c8660c11d27660a3b1d9c5bdb4082ad56b226e7a4",
+      "editingSha256": "111cc74d9f2b67fed1ddc911caba072db8ba38086d92ccab707947bc3b5e73ec",
+      "unchangedBinaryChunksSha256": "9a1e1938b9183bb5cae24802d86482e4a23edbac64cd55d68897a8e48e4d931f",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-6f05f04c-da10-440d-8e33-cf20c52e5582",
+      "file": "public/assets/hair/Veil_Female_Hair_013.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_013.glb",
+      "sourceSha256": "75726de720317574d85ccf1e2424c546cb1c3734bd0c10d95141fd17802b8b5a",
+      "editingSha256": "77f49657bb3f1fc8d2ecded842074832daaf91e13d1f6c79b7ac8fe0859e548f",
+      "unchangedBinaryChunksSha256": "ef11f5329d515d08d3f6c0c40e5252f1b0eac202079c01770e18bc6a73b43fb8",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-78c89104-b36b-42ce-baa6-aebd8c844c95",
+      "file": "public/assets/hair/Veil_Female_Hair_014.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_014.glb",
+      "sourceSha256": "413d72aa64e4832352d387df73850ef11eff51573c3f1ce07d234114b0a083af",
+      "editingSha256": "20c15651411f13db27a7d2b4aea91c9c28e6f4e1456ab2faa8738039e0124450",
+      "unchangedBinaryChunksSha256": "61cbe1eb14c99f35b77609cfd73fda75f8f22a8784e946191bb67bbfdbb23138",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-3db1b2f8-4889-4203-9871-a7cebfe5dd81",
+      "file": "public/assets/hair/Veil_Female_Hair_015.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_015.glb",
+      "sourceSha256": "57f24616306ca87f4fbc9bc183a34a0c2ca7f506c71a82c45a94cbe0f0d087a2",
+      "editingSha256": "a8052ffdf12a7686accfaa1de22c17e0aef1ea4c08552509c79e4d215ac726cb",
+      "unchangedBinaryChunksSha256": "364638970463a48016ad717729f38011938d5a9d9a67dc228d87cce6c7dda745",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-516f328f-78ce-45dd-b166-70528f147156",
+      "file": "public/assets/hair/Veil_Female_Hair_016.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_016.glb",
+      "sourceSha256": "6e7d5432a3b4edf821bca8ed95d243bbc424bd0f2226e52a4733084e59acfbfb",
+      "editingSha256": "7511bfc709ad41ce11dd7d3474b56c092906b436c84ba9f046eab5782037971a",
+      "unchangedBinaryChunksSha256": "9675b8a43bee83073f0c97aa13f265fc1e9f67cc9d0d78b763b9ed33fafc3bdd",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-4f474500-4297-4e6d-9dd4-c61d88907baf",
+      "file": "public/assets/hair/Veil_Female_Hair_017.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_017.glb",
+      "sourceSha256": "8249dfd3698e580046bd1eed7eaa4093cd03291a94ae4ee74eea8907b6a163f2",
+      "editingSha256": "8b878fa1c7f9204d24813949f6ff250f9895755bd347e15172cd39703c64e768",
+      "unchangedBinaryChunksSha256": "491d071e3c6b708bff765fcc506492f1098543067ecd2b28f808108c16c0ff43",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-785e25ac-66b6-458d-986c-1802b573d8e8",
+      "file": "public/assets/hair/Veil_Female_Hair_018.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_018.glb",
+      "sourceSha256": "60c0f5135aeb04451c19bd66bb3c2f0c22fc74d22b7be7e84a8f4e46fc4842fe",
+      "editingSha256": "4bb2773561830a641c535e4c16fe7ce5284932fb1444d1188533b4cb2f109589",
+      "unchangedBinaryChunksSha256": "bb2c72d59eeb1a366ae89ed520c18ff467de82c6aa0235f066e196e13c23f608",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-d7ed2586-d173-4dba-862a-fabff546dfab",
+      "file": "public/assets/hair/Veil_Female_Hair_101.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_101.glb",
+      "sourceSha256": "4d1f6bfcec1875db7099158ea946e1412c08f20f726ca60cbfac03aa632ab839",
+      "editingSha256": "0c4835c9adac2b9c437f03cb7d8b8f505a9df5a9054fc60df71d8d5e7bb04eb0",
+      "unchangedBinaryChunksSha256": "8935ebccc889d1093f4308b29f65e76ef3c8e2a9036fccaed7f45ecac6fc8e4a",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-8a7c101b-ee52-49b2-b787-d251ccf931df",
+      "file": "public/assets/hair/Veil_Female_Hair_102.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_102.glb",
+      "sourceSha256": "79ddf68ab48dfac064ecbd1bb5b4981ef1f76ae1ac47db8038bbbcbcc29a6401",
+      "editingSha256": "fbb51fea123340fa59665556598a8bc8a1235772d40ab4c8e45cc947acacadf9",
+      "unchangedBinaryChunksSha256": "b8c388596e13415a2c62e3a74906b3ef4b059ec756ed790cabcd76a4767cea74",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-d79cad15-34d4-4dfc-99b0-2ed53949f642",
+      "file": "public/assets/hair/Veil_Female_Hair_103.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_103.glb",
+      "sourceSha256": "76b8ccbaf3954ca386e9fffbd72e1d2474e43e9ebd3a9fdf82c88f2bd9ac1f83",
+      "editingSha256": "c3fa8de192f0351995f6de298d07fbf6691b35862ed2ae9a476f04e17b51552c",
+      "unchangedBinaryChunksSha256": "fc966440e31ca0d4e7ef427c5f7f3aed6230d4898609d84678196b9496c3b410",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-0e8ef5e9-cd1f-4804-bd76-74eedec3f3d7",
+      "file": "public/assets/hair/Veil_Female_Hair_104.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_104.glb",
+      "sourceSha256": "d69a2d022d9cb6297f7c6dca728b8e4bb209d3fc2558ce76d5aa94695cc25eaa",
+      "editingSha256": "5629a1a9f6d79117e33e4a7c2174f83af2925e37a43130448bf505d49e319c49",
+      "unchangedBinaryChunksSha256": "f15a287fb7a8badf1f5102e9a4dff24e00e330f717e596db1ff888a892270549",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-902eb1d9-92a2-42a8-b24e-4967e4c07ae1",
+      "file": "public/assets/hair/Veil_Female_Hair_105.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_105.glb",
+      "sourceSha256": "c61407f9cee5f3633caa75c5bcee3d58fdbd9939501b126784b5e59958f729d3",
+      "editingSha256": "8f5796f638bf5d5223e5e816f43581f66b8968fdd8ae07ca62a8eb5741e56452",
+      "unchangedBinaryChunksSha256": "8d107cd6519da36168e46aeecdc14031a36f2777cca08eab4e7eb6d55f9686cc",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-56332e92-5ad5-48ab-9109-72893ddc8938",
+      "file": "public/assets/hair/Veil_Female_Hair_106.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_106.glb",
+      "sourceSha256": "9a8024a9e3e871848b7ff6fd5e89849bcc981b1483ad78b93e8d17d758174ad2",
+      "editingSha256": "256b2e269b97f3d20766d50433be2a79456c154d1e951bb0adbbad989cc8d5e2",
+      "unchangedBinaryChunksSha256": "7653d575b796674994bf7bfd5d107b491bfc912504dac6119283032548dd6bc3",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-6de15c72-d15b-4a7d-9a6b-028188355832",
+      "file": "public/assets/hair/Veil_Female_Hair_107.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_107.glb",
+      "sourceSha256": "163da0ebf324b84eb338c7653cd0762b52788348e636ccbef0a88fa036dfc717",
+      "editingSha256": "a040a43689b84e9b6bdf4d4357c09f1faceffc34238c4396cb8bec25fe82d143",
+      "unchangedBinaryChunksSha256": "a965aee8aceac18b02a88345ede8403659b9f9c4b060dea9e808863826ca762d",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-9323eaae-bc4d-438f-ab2e-c5cd639352d7",
+      "file": "public/assets/hair/Veil_Female_Hair_108.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_108.glb",
+      "sourceSha256": "9b60e20aeaf5be4d6eaf4285156c13c204c34ad68907ad0c2acd4402d08a62bb",
+      "editingSha256": "64ec03bd94df473acca7de371a84c3d4265ac0a8c609f74d7b38aece77d057e1",
+      "unchangedBinaryChunksSha256": "86c931a3f4146f77b4d8d28bbd8304e457e3b6b6bdd042bc8114d4c0645f4f6e",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-57655b96-45de-4dba-bb93-1cadb0bb0618",
+      "file": "public/assets/hair/Veil_Female_Hair_109.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_109.glb",
+      "sourceSha256": "4b72034eded9d7e34ecc8581593b93cb0d85dc9b1e5599137b6e8a39e1ac2eea",
+      "editingSha256": "749eae4871793f2d471c7dccb934c2707f2531e66e971d668b7a0d86c404680d",
+      "unchangedBinaryChunksSha256": "75ed9e2e965118180c1e3a3bb81dccd72ec15b54be4737947d9ff69c99c5fd3c",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-61585988-4c82-49c3-9874-4611d0439429",
+      "file": "public/assets/hair/Veil_Female_Hair_110.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_110.glb",
+      "sourceSha256": "9b87eb029678fbf9fdd03ea3833124ecc044340d317894af9a198ee15ee7ed8d",
+      "editingSha256": "600bb45f030478a7c08620ce1167afcf0cd078cb6708287f762824b7c3d69451",
+      "unchangedBinaryChunksSha256": "9f3f223d0068e0087d4a215a2d09083c284c7b4a89d45fea6e608e7fba15bde9",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-591d2bcf-7e92-462c-9e63-57eda66cb009",
+      "file": "public/assets/hair/Veil_Female_Hair_111.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_111.glb",
+      "sourceSha256": "1ff2e7b8776ebe46dac233a9c1f00ac21daedee3b0cf0b1841be3eacd4ca4c34",
+      "editingSha256": "7baa5b7cb2ecf8d71283b4653facdb13bd81a51ce6cd9b293a2215e4e1e51c86",
+      "unchangedBinaryChunksSha256": "4c05299cde71d8bf48ab0aa213027f9ac9d64894eb63e1598d413f3cf5e5ccc3",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-b4fee6c0-a51b-4cbb-b23d-70be4ebe8cd0",
+      "file": "public/assets/hair/Veil_Female_Hair_112.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_112.glb",
+      "sourceSha256": "7914e6142da87450a126b207a5a70fe7d84041f312a39e130133b0d9d3c924c7",
+      "editingSha256": "74e193da0c15e0b2b982cc59c9bf8f044de754c3cb77e3502dc624efd40ccde4",
+      "unchangedBinaryChunksSha256": "d579eaca6ab474ceb0a07ba0703955f919009ea5f56787c9ce5d9ace6a3f5c3c",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-522e900b-5183-422c-81a6-a7855a5b0492",
+      "file": "public/assets/hair/Veil_Female_Hair_113.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_113.glb",
+      "sourceSha256": "d917038e59a5e0f4311818f2cb66af7618fbb3e10d52af8b5838b352e039a8d6",
+      "editingSha256": "0a2b9f2c5dbfbb53200812bbf882a60f5461555ff214eefef3254d84553857c1",
+      "unchangedBinaryChunksSha256": "25e9035a808298c5515eadee3649d36729ccac30ced3c78920b630b00a1de9f4",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-ce11e093-b940-40f5-b91f-068eafb20276",
+      "file": "public/assets/hair/Veil_Female_Hair_114.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_114.glb",
+      "sourceSha256": "94c93a4997607a362f180f8fff5b0919cfea76c5b13c9632dc9c5aa652485e1a",
+      "editingSha256": "c83acdbccaa13789b162aa2f6e7f8248ba5465504e2a6b8c4bda5d02a9dc66ef",
+      "unchangedBinaryChunksSha256": "c13f10aa678c94bc540ecc2bd6c170fb2fb279b6ea34bdd446005bbc3c2bcf99",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-dd5452d0-166e-4e35-a3ec-f9cf0a73257b",
+      "file": "public/assets/hair/Veil_Female_Hair_115.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_115.glb",
+      "sourceSha256": "3fce23d3fcc180b53ea8ba8153a78eb5282f9596b412a38c77b4298d01674ad1",
+      "editingSha256": "db078da080d6eceb0683bb0ece6ce78f40c439866004b8c3c3ad2f56e56e32bb",
+      "unchangedBinaryChunksSha256": "0728ad52de7ba2231584d30e1361cc97da08f675611f73ac3af9ad669cda427b",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-efc03f66-09f0-4fb1-b1ac-3966494a836a",
+      "file": "public/assets/hair/Veil_Female_Hair_116.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_116.glb",
+      "sourceSha256": "a7fd626ec9c437c485090165337c28e4462a53a6d7d4f58641d4b2a3c94c555d",
+      "editingSha256": "1c6845aea0a2f1b17e3397d1949ed57adc82e3f33cf6bff8a748d601b2306505",
+      "unchangedBinaryChunksSha256": "7dd0abcb9ecba7f4aeb2e7dea7e1fb7a2d2bc16f6fe348e9d7849497f488dee6",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-dd695096-bca2-415d-8674-3c36c47a879a",
+      "file": "public/assets/hair/Veil_Female_Hair_117.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_117.glb",
+      "sourceSha256": "8904229ec390b3a1c2672711c68eeb7a8f20aa926f73e7b970ff16083c4347e9",
+      "editingSha256": "8842226b015c06177667fbaebc73145e4a4068286718205f0ad4ee0e9d96aa0e",
+      "unchangedBinaryChunksSha256": "a1c533d42c5c46c116e90555203174fdf0568f95a991146d33b0297be59bfad5",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-2be6425a-d6bf-4f6e-8ab3-1a4777f6d85a",
+      "file": "public/assets/hair/Veil_Female_Hair_118.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_118.glb",
+      "sourceSha256": "fcdad1be9903c63b8b27a752789f274011b6fa0dc65ebd4019cc13bcbc891954",
+      "editingSha256": "3f3604b5c33bb8f8ccdf7665621093163460a2b7366e0890cd070157d6d822d1",
+      "unchangedBinaryChunksSha256": "1673dfb2cd214d151c1c5f1e2fbf8c9c973901a05d50f115c09763baf9163bcc",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-c9616eb1-f288-473c-b51a-8a1575647b8e",
+      "file": "public/assets/hair/Veil_Female_Hair_119.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_119.glb",
+      "sourceSha256": "55a085e4ae4f8ed09a90af9c37ba6065d8619472ad26d198512edc1f0da00b1e",
+      "editingSha256": "26a12103b4b9a12dcb3c6914b63a69c34a43c159b42fc16ad3d4befdc0340e06",
+      "unchangedBinaryChunksSha256": "5cf3d0dc9f6be6b5b90f393ebb34eb5c84aa2f40230d83619574f6a55f44f752",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-0ac79e37-5ab2-4592-b901-62653bf956a2",
+      "file": "public/assets/hair/Veil_Female_Hair_120.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_120.glb",
+      "sourceSha256": "f9a4260f587f6441dc01a8087c5167ede4cae42e8f25999384299dbc22ffd651",
+      "editingSha256": "8a8391c2e8a1699f91b6cb3ddc8bcfeb9152f9de9ecefb8b1a8323cbeb08046d",
+      "unchangedBinaryChunksSha256": "5d23299e67317d2eff5f997c24f32886575bd7d60a052c31d330d5925fa262be",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-ae55d3b8-df90-4ea7-972d-ecb6f8a7cc52",
+      "file": "public/assets/hair/Veil_Female_Hair_121.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_121.glb",
+      "sourceSha256": "850fd8bda5bf04ae6a25b7233192856661280c9ff0e2b2063ccc66755de4d3f0",
+      "editingSha256": "cc5d15eac97aced977262a4f7e2d4141e9432770fbe651398e9a04335650b359",
+      "unchangedBinaryChunksSha256": "8965cf010630fb895cc6b17acce9cb610ab1f13991654d6a24aaee52da0e6d79",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-88ed3da3-28a6-4ee0-86a3-8cd1b4afe8f6",
+      "file": "public/assets/hair/Veil_Female_Hair_122.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_122.glb",
+      "sourceSha256": "f2effafdf24bd00850b6e6e51d4332999ca3058109f6c619fdf108e4279a7760",
+      "editingSha256": "18ffbc86dc30fad5563b61f87a67bb09fb71d199501839a3cec426312eb2b9e3",
+      "unchangedBinaryChunksSha256": "b1fcf3f6da9002e8420c82fe7f5c1e154e78d4e4a8b7a4ccafe9812e62cbd61b",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-b09da9d5-d9bb-4d3c-96f0-f8d216b2f04b",
+      "file": "public/assets/hair/Veil_Female_Hair_123.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_123.glb",
+      "sourceSha256": "5f9f0997587950404befc7f4414f41b80dbba0b2c31eca4039aa5cec2701da25",
+      "editingSha256": "16581d484842a0f22c51fe26a1b0d12be294e1d0c56315e0eccbd93f46909e75",
+      "unchangedBinaryChunksSha256": "f0d03eb79b5915e6a7997c4f6d2ba4c2a97ca972efe51ad91f767dcecf3eea10",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-2d23bf2f-885b-45d6-96a3-c1ff54a7d7c1",
+      "file": "public/assets/hair/Veil_Female_Hair_124.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_124.glb",
+      "sourceSha256": "09cae85e1ca0c4bc9c235d09dc30abe411f7c9f300b2b9d41c25445da4bd746b",
+      "editingSha256": "511e5d7c97a1c6704baba74f0782a689a808c792312636786650d5c797353597",
+      "unchangedBinaryChunksSha256": "209a817066afe8e2de8323f0c9103a7296c9399f00bee2faf3daf12b3a2b2f50",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-ceaa5b45-3b73-47a4-892d-ad1ef640b497",
+      "file": "public/assets/hair/Veil_Female_Hair_125.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_125.glb",
+      "sourceSha256": "34cce855413447e9e46ff7877f957da8a62b19cf5f4c05077c192d2c1db5d655",
+      "editingSha256": "fae7c7d15a3c0e0b0e811d742e77216900c53a0f92d8c4895a85d821abe7faa2",
+      "unchangedBinaryChunksSha256": "2ad2908718d49101bed681bb628ca1f37905cd45527bf6e95013c0807e91a6bd",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-dfcf0f9a-8ef3-4e4c-bbb6-c70e82af2413",
+      "file": "public/assets/hair/Veil_Female_Hair_126.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_126.glb",
+      "sourceSha256": "35361a5e65810a26c0c082c72614efcbf6525fe1bb27a53db139011b03acec26",
+      "editingSha256": "55f60651cd88793a7c25e9ecc0f1c3491c62a067b33843f45c9c20ec6ddde8af",
+      "unchangedBinaryChunksSha256": "8b1798c6939029ff20922cbf45db1237d2dba8331ad8442a2f2f3be440298c08",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-9c8eeeef-5423-47cd-b4ff-d850d0491cf2",
+      "file": "public/assets/hair/Veil_Female_Hair_127.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_127.glb",
+      "sourceSha256": "ba83bf40ab4529dd2dcad992f5f533c1258aab8b03ebe1ffaab32f780df8fe95",
+      "editingSha256": "53586b60ad99e25560e0f3fc9b3ee0fc0393dff62ca98cee49dab85a01ccf4f2",
+      "unchangedBinaryChunksSha256": "fb857020bd9317a374a8cfd685c45d8ef57d438fde37b9088d081c2ea6830105",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-70505e35-32c8-4914-8b39-3bf0749bdac2",
+      "file": "public/assets/hair/Veil_Female_Hair_128.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_128.glb",
+      "sourceSha256": "8eeddc4726fbdfde753016c8045a1d0a812a5e0c08be53764b7c56c307f8220b",
+      "editingSha256": "c8a5974ae946accb8dc40d3704f3e080b89e7de129328b0d3a444a16e3064bb9",
+      "unchangedBinaryChunksSha256": "1f6d8c025502ad28a3fd758fd74009ec357a24b9f1e1d830ed24ca09026322d3",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-d530fa3e-c9b6-4cd9-a7d7-d7e415ba6691",
+      "file": "public/assets/hair/Veil_Female_Hair_129.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_129.glb",
+      "sourceSha256": "dd37eae238a3fdbd6b41ceb4ac0ba4b6814bd7fd7f86c229a81ee4f366fbd167",
+      "editingSha256": "bd94bba478739d164ac4c9cfa4d1f6bf8100604e2ef361a1452d4d3e9b223a1e",
+      "unchangedBinaryChunksSha256": "aa7c558fde237df375b27dafce7980e73492edae29aff2b0a72ab783a16aadb0",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-18e21667-78fe-457a-903d-7fd6955d4d21",
+      "file": "public/assets/hair/Veil_Female_Hair_130.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_130.glb",
+      "sourceSha256": "b263073072729d2c331744223a07365ae4f856019ae2002234b03bd9c307de8e",
+      "editingSha256": "7cf2a9a1592c077eb7c2c1a9a13320a7af94e1c6502ebf84ee18397e966b6bbe",
+      "unchangedBinaryChunksSha256": "94434d27e63403c365ae6f2f5bb6bdab81a0dc308ed4dcef6444f903003aac0a",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-0e2391d1-1f8c-4083-8f1a-9b67433d71fc",
+      "file": "public/assets/hair/Veil_Female_Hair_201.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_201.glb",
+      "sourceSha256": "c82864062185cb8ff5e59d8a4eb002a1f48d30f1399a154b48a96ad89ce7480b",
+      "editingSha256": "2b707d1fa907e02b5c6001bfd418360e646bdfd4fe54661c401f89d4acfc72cc",
+      "unchangedBinaryChunksSha256": "f505897e18ba83bdd56d854b2cced216452e137578ce29705c121501d215c537",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-d1fe02d9-d839-41e4-9be3-f1462d64313d",
+      "file": "public/assets/hair/Veil_Female_Hair_202.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_202.glb",
+      "sourceSha256": "95a9c6b60c32cbcf1fab0e79e62792ac6cdc1e2e4f82fbd84376c8d6ae506f2f",
+      "editingSha256": "0ec980c1bfd386fc688c4339426d413ccfe951b4fad1ab0e8f621475b540af7e",
+      "unchangedBinaryChunksSha256": "713c55e10df8480ac9b1007886166f9a9fc0b382ac353e4bbcc87f09bcc9c492",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-45cb1c80-c7c8-4ad2-98ff-0186be03ac24",
+      "file": "public/assets/hair/Veil_Female_Hair_203.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_203.glb",
+      "sourceSha256": "fc216b8974cff3f83be16417163e4330a8fb2e1434cda06992f57c0c2baa1daf",
+      "editingSha256": "2a9c22b7f4eba4d14ef9eb69ba9a22003646088f5d31971e607756d95614f925",
+      "unchangedBinaryChunksSha256": "f6b3ab570e68999110f00c79420e33944c0eb330ecb635ac3dea8b7bea2d0da5",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-279e5a57-a668-40f3-99b2-67ce7466b164",
+      "file": "public/assets/hair/Veil_Female_Hair_204.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_204.glb",
+      "sourceSha256": "ab4ca557182bc2f2324b9d854daf1eb5876e16db318fca943c8dd6ac98740a04",
+      "editingSha256": "8bc2da61b3622a8b1cc29fc480f014f581e447789784b2ccf7b07ba747dc1879",
+      "unchangedBinaryChunksSha256": "f02d8e254a93c8f079321effbe865c9c2b248bd11ac165ef93d691f27e61e671",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-a85d9526-3979-41b3-98cb-c50b0a99d49d",
+      "file": "public/assets/hair/Veil_Female_Hair_205.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_205.glb",
+      "sourceSha256": "fc244664318ed67b25101d4db670a31e8e42bd0b7cbe27581d5cc195d886670c",
+      "editingSha256": "14b7017066bec90fe13c78e3067435326214cd6a381958706693359852f0d676",
+      "unchangedBinaryChunksSha256": "2712dfab7a643850ee1e8b0135ebfff0915b16b9a125c081b2ffb2abd000b4fb",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-ebd7223d-6bb1-4d9e-886a-d1f0b39ee2a7",
+      "file": "public/assets/hair/Veil_Female_Hair_206.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_206.glb",
+      "sourceSha256": "fff22b03be196480fa52764cee3fa3a43b1662f367e8178eec97bc34f4d2f90c",
+      "editingSha256": "8fa08d5f3b49d8799f6b3362d8654e80ae4830f1ca90860775753a1a132656c9",
+      "unchangedBinaryChunksSha256": "93075c2e706b24dc1ef36174b9e9cccf1c13c7e69be1f5dd13995af36d4f43e9",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-1f955af4-a8d5-472a-8f43-10d9df53d5fb",
+      "file": "public/assets/hair/Veil_Female_Hair_207.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_207.glb",
+      "sourceSha256": "12b878168124f744abc93a2ab72cafb5dd42212c8ea650f13fe81107713338ea",
+      "editingSha256": "9a57fc6e7228c4237a441b1b13039e524d1096b8ab71e54d25a395c619151eb8",
+      "unchangedBinaryChunksSha256": "8d7ec3ed8eac9a79cc1a9fe7dcec3bb645b1d1d6d4bb1503f467a1470c41a292",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-a63f9c7d-65c9-4601-a9f3-c11d35c677a7",
+      "file": "public/assets/hair/Veil_Female_Hair_208.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_208.glb",
+      "sourceSha256": "10b99f347eaa9d0e34fdc47e9833d07dfe9c512a1b3df81ed6a02c7068430525",
+      "editingSha256": "afa9b3b9e285dfcf62f07e7117e8fd773cf2b56087fe41c8e55f4a6e59239b42",
+      "unchangedBinaryChunksSha256": "b2ca6cec4a718d89ae18a773dafe423257453cfcaf27ab87f5f94c3df65ae98b",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-b1f26878-be25-4132-ab58-9e2610145842",
+      "file": "public/assets/hair/Veil_Female_Hair_209.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_209.glb",
+      "sourceSha256": "75349e4456bb77db5fb27392dc50bd1130363788bb87e71c71cad2f1a0431478",
+      "editingSha256": "5b4c933310068667f4ac1fbb8dae36f6e284ab6d55954a6614065bd39d80df83",
+      "unchangedBinaryChunksSha256": "21842cf468bbbb6b53a3758eba27f420cca6820c48fb4790fcd54cbc2ef41949",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-43e9e864-558f-4834-b3e9-d829b3556ed4",
+      "file": "public/assets/hair/Veil_Female_Hair_210.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_210.glb",
+      "sourceSha256": "55e901aba7cea07c00cdf6bf7474f15617e8232129f0a5cfb7c2c6bc0e6a8f06",
+      "editingSha256": "c84af8c13d4fd7ef19731f35689397619516facd4eede48e29b84cfceddf4a33",
+      "unchangedBinaryChunksSha256": "d626cb6693481a2394afe40d09dd1afa3f331f29aa9b4f6eee5a342b2083108f",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-51dbfef2-81f7-4a56-9ea0-af293e07ac48",
+      "file": "public/assets/hair/Veil_Female_Hair_211.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_211.glb",
+      "sourceSha256": "e906ca5687ae6118f29360aa13a81b83b88931c9757902ac4d9bc5eb543b22d5",
+      "editingSha256": "7c43d8e4b0ee365003a0490c595c29de89c7e8a8e56bda4c5d68ce8d33e6dc7d",
+      "unchangedBinaryChunksSha256": "031e570b3e737c84be707d6f66ba30345ed3657643b53525f10c770a28362213",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-ec85f826-05ec-48fa-86a6-47b60bb7ef85",
+      "file": "public/assets/hair/Veil_Female_Hair_212.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_212.glb",
+      "sourceSha256": "0d8b08efabb732d6bdd4f288e069dfeb3948a330561d101edfffc9913c033160",
+      "editingSha256": "6dd01b31bf512a05d203b008bc75644e0fd43d1e4817b469e5557891e2bdef0c",
+      "unchangedBinaryChunksSha256": "71c8dcefb175fb13eae17b8348862935713900413fbdc42df8353e4b69cf419d",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-8de96d81-8530-42ce-bb6c-7c6966b2fb5c",
+      "file": "public/assets/hair/Veil_Female_Hair_213.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_213.glb",
+      "sourceSha256": "0345efcacb780bc53f8fc965eee1d5b4788cba3dfc8e4c96acbe270908aee388",
+      "editingSha256": "36fa80b7b980ede939ebe8dfb6723dd2245aa7ba5248b9dc2ea62a07e1099b78",
+      "unchangedBinaryChunksSha256": "d1adfe96442a5a5cc210107c670cd63a04c453ee8c5257169502df01ee0da4c4",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-c5acfe1e-d4c1-4cba-aafa-41bf06971f6c",
+      "file": "public/assets/hair/Veil_Female_Hair_214.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_214.glb",
+      "sourceSha256": "607921b5ef426b6f794be1ba4f6c6db892c3aa1d534ed9bca398600a3b13472b",
+      "editingSha256": "073e1013f916baaaf9a441ce73be009c986feb50297c6f00d766af858f422eb0",
+      "unchangedBinaryChunksSha256": "49531e86eb8ace3c4936987f75e15ff3610af557a35cc12e2a8c88db82ab746e",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-32821cc6-7a9e-4cd4-a9a1-bf3344dd1de7",
+      "file": "public/assets/hair/Veil_Female_Hair_215.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_215.glb",
+      "sourceSha256": "fedc29a55e4dcd5f7a166e4a6a0e20dee88333e5ea6b83ed92a35f9f05e364dc",
+      "editingSha256": "0c23da43f9eb6fcc4ce0dd88827e52f147c398b319eaf0cd349d3d2ae0dbdc17",
+      "unchangedBinaryChunksSha256": "76e5ee1ac22bfb4e49ba36da643e6b901f1d368fe9d000c472ad7e0f66e34a09",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-7156fc61-f929-4e81-9f9d-e4bd323ce723",
+      "file": "public/assets/hair/Veil_Female_Hair_301.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_301.glb",
+      "sourceSha256": "9fea97f9990504e6c4c1437a379851170e636a3776e762b7208851e1888fd25c",
+      "editingSha256": "06a3ce6774ba22c17d5022222b9b4a43a2d48e6ca800d7fbb0cdc01d105c9809",
+      "unchangedBinaryChunksSha256": "e6d072c3a034adfff6ce7cce09e49fbf9270a574d86abe370d74d68fa64d033a",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-1eb03bd7-1b36-4748-bb3d-7e0e3478178e",
+      "file": "public/assets/hair/Veil_Female_Hair_302.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_302.glb",
+      "sourceSha256": "8608969fe60231d9ea28e16bb66a8bb912264d6519ee8cbef28067691049f80c",
+      "editingSha256": "ef18abdf39b3b168ef18d82a37bdb89473bbfad62c72d25ffa68aba1f8f6d2e7",
+      "unchangedBinaryChunksSha256": "55859bf5cc88e433b12427ff0a43e79d287e6e557ea0ee1e9812e92421145751",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-900a861c-18c7-462c-844b-1d1b785fde54",
+      "file": "public/assets/hair/Veil_Female_Hair_303.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_303.glb",
+      "sourceSha256": "32af100d1128e8fcd263c73630eed60d3abed998d64badbdb9383c31beb1d216",
+      "editingSha256": "51655cdfb993af6709320c84d0037b1f7c441b4cc94032fc18845b656054deb3",
+      "unchangedBinaryChunksSha256": "f2227aabbd73b670b1fbc4c3766a966952d39ef71903d8480a1f295773d7b0bf",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-7040ef3e-6772-40fb-89ea-120d374eef24",
+      "file": "public/assets/hair/Veil_Female_Hair_304.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_304.glb",
+      "sourceSha256": "a921e373e8cc9c8616fac1948e4ca40a1dbfa3a238c2efacb2a9ce066d57bedf",
+      "editingSha256": "53bffa69ff514e6593de0763202fc0014468a0801b20f4b27024a55201a66e41",
+      "unchangedBinaryChunksSha256": "6fb46ba3a90a040af03dee78cc900d5cbc7bf87b1e795d6f303882ef6fa15223",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-3a81dffd-fb5b-4f16-905d-939c53a631fd",
+      "file": "public/assets/hair/Veil_Female_Hair_305.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_305.glb",
+      "sourceSha256": "e2ec3de657e2b73f977213a9228150b962eae6e389ccbc2b1a8b73770e63842c",
+      "editingSha256": "10e1b02afd9c9185981007196e40519b90fa262d17ca0187c788a5850ade3c8c",
+      "unchangedBinaryChunksSha256": "c9312aa0ca3193423d742df3dc3bd84f562194c9781744d4dcffaa90c7bcc54c",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-a5a05f7c-4444-4b0b-961d-e497342413c3",
+      "file": "public/assets/hair/Veil_Female_Hair_306.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_306.glb",
+      "sourceSha256": "8c1a19ec0ee9cf7b3bea648cdac42ffbdc54f243efdb05b6142e46cb8e9db23d",
+      "editingSha256": "0b0ac50a67ced9b336c10a8ecd830da3aa59a34107d472a719cfe64dda7d2f26",
+      "unchangedBinaryChunksSha256": "2402dbde511badc05d2da37f083c10e9a37cf2543f966dc9f228c31b3aab74df",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-c6e39937-20b0-400c-9040-7db4975a8e3a",
+      "file": "public/assets/hair/Veil_Female_Hair_307.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_307.glb",
+      "sourceSha256": "646685bc05ef0af2889e4ce57328f373a0cbcf1f2ac12bd55e48cac22f63f59e",
+      "editingSha256": "e30426b152f436c4f51ce651fb57ac1506b455dc7ea48a3188d732cf0142c34e",
+      "unchangedBinaryChunksSha256": "10074a1d8214b6121a9acd533f545132f300c923e9d7b78afc9dcfe6028f438d",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-031fb844-e4cb-4472-b535-aa6e2ceaaccf",
+      "file": "public/assets/hair/Veil_Female_Hair_308.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_308.glb",
+      "sourceSha256": "69ffc95e40992ebdada10bc3b7c3755ad7b84a6276eafdfbd450e19c467b3596",
+      "editingSha256": "2002fe2206f1ec012fe7abb845f0194f68ec580df5b8655adfd541064561dfec",
+      "unchangedBinaryChunksSha256": "1e7763043a791b6ec6bbe775207658d8c834ddc2234d2e135187c4b5bfc95bbf",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-e0e587d4-eaf6-48a0-a51a-fdb9fa862d47",
+      "file": "public/assets/hair/Veil_Female_Hair_309.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_309.glb",
+      "sourceSha256": "0f77610b7b1e70006765cd480eec2790447cb2514f9984e4c29faae5f80d6b40",
+      "editingSha256": "1220918027e372fb38ac61eade6e9ed1889238cecb29600c071ebb28717a9cab",
+      "unchangedBinaryChunksSha256": "1a09d50aea224dc00e9d74305c3501d969d75c8dc9f84e524e1f8023e6fd5cd6",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-8ae62856-9c15-4e99-987e-7ba77b03632b",
+      "file": "public/assets/hair/Veil_Female_Hair_310.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_310.glb",
+      "sourceSha256": "98b802bfef84d22c1e65cdc2192b2cc7b79fa99aa83d7d114cabd229462e4ca0",
+      "editingSha256": "ce8be11811cee973c2c6a75be3fdfc11bdfec0adf0e68587daa7d6ac87cbdb7b",
+      "unchangedBinaryChunksSha256": "3d76786e55ab09caad3d39d5768cb12f5b7eb82422610aa7ce63b927d65037af",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-63f401ee-f3a7-40eb-9f0e-fc6bdd8777f6",
+      "file": "public/assets/hair/Veil_Female_Hair_311.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_311.glb",
+      "sourceSha256": "3be304b177457c125c85bf09625f4086bf2d13257fe39d34a3db931d90f13225",
+      "editingSha256": "d75d0f55da09714ce8e139f483787c37a3f49623a26740655f4980b1c4de469f",
+      "unchangedBinaryChunksSha256": "288b92034b7aaae194eae6b8b0305938010b2095f9fa9ef0e09a27418d2ff9f6",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-8154a516-3094-4169-9ff8-e68575405896",
+      "file": "public/assets/hair/Veil_Female_Hair_312.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_312.glb",
+      "sourceSha256": "851762bebafe9e4c0ed77c2b1881b35cc2dc5b13046c4c7ae2fdfeb4f6056709",
+      "editingSha256": "fc22c7643e20569df562d97daa008917f18eb2078196d552d06b65883f96d500",
+      "unchangedBinaryChunksSha256": "6821e611a7f25a7968418d1fd20dfd88aef88daab059c2b592b1722f934107a5",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-5b92b24a-fc3c-4381-ad7c-1ce23696def3",
+      "file": "public/assets/hair/Veil_Female_Hair_313.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_313.glb",
+      "sourceSha256": "473dd0b9e1ea90a7dae4f377fb344beb2b7295b74eaabc8226ca73293dc6d0b1",
+      "editingSha256": "8deab91a6d0fb7531cad4971f53ac556203e8adb385791b4270f61742ad5e60d",
+      "unchangedBinaryChunksSha256": "9cc1127a55fbd63484d509672da9ba2f5a6dfee43ceecebd31528a63541a71ff",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-4b88a792-42a2-4171-9cf9-33eae527209e",
+      "file": "public/assets/hair/Veil_Female_Hair_314.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_314.glb",
+      "sourceSha256": "d59adbfc53b86de40eb9f7d76888bcf907ace5b4a07c580b6b1e9b73b4267f13",
+      "editingSha256": "0456072ecd2f74a5aea814dc1ec35f579af30031e882ec7065bbfead31c3675d",
+      "unchangedBinaryChunksSha256": "5467550787d1f920f21f447c7e7b45aeb157ec7829402a999e7778205fe45271",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-be6c4019-9573-439e-ad76-2ee051d6c98b",
+      "file": "public/assets/hair/Veil_Female_Hair_316.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_316.glb",
+      "sourceSha256": "a79e1421a75072aa9b5e624c7c8747b27edd22a55fafdd191396d70b7239a5f3",
+      "editingSha256": "729e33383050358f8c208834c71ae4060270f45d769908a71da79365c39376f2",
+      "unchangedBinaryChunksSha256": "04c71d733d8f5484f474953de7db0078f169d52b3b33e318edc7fb92abafa34c",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-8fb3ef90-f71d-4497-b23e-1ca0d9dd25bd",
+      "file": "public/assets/hair/Veil_Female_Hair_317.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_317.glb",
+      "sourceSha256": "a6c15c0019174e1da77d0f118642bb971fd5a05523d29fe9286ba158e232e6e9",
+      "editingSha256": "fecac3d85b360217cd955a73980c9487d4401e60529be233ea27dd6011bdf3cb",
+      "unchangedBinaryChunksSha256": "fa5acf10c7ee7353c8c7e2b281701fdaf45a903b388f4bce2aa05d494d7f8301",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-eb9bcfd6-b789-4a8d-833d-e1b484dbbb6c",
+      "file": "public/assets/hair/Veil_Female_Hair_318.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_318.glb",
+      "sourceSha256": "a1143d71ddf68bcb7749798139864ab15b3e4dacdea2a3ee48c810a2b1a8422f",
+      "editingSha256": "b32268635d29661b16a5be9cabc6d7057a638cdde5f1db87b2e7e1eb15525479",
+      "unchangedBinaryChunksSha256": "0b3810ec4d4b0b9c7afec9546f7d4e678a3f64c4c645ea4417c32bb425e3a272",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-c9ca06fd-579e-4821-90d4-483a1b616649",
+      "file": "public/assets/hair/Veil_Female_Hair_401.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_401.glb",
+      "sourceSha256": "8cf2bd56a11f7b2b7d021df4392506778e58c28c38ac02384291a96f9f751325",
+      "editingSha256": "81da546721c9f2c768ea3c6ffeb2ad2b16ea4d66bce9d2c5f448a4a4f80e697a",
+      "unchangedBinaryChunksSha256": "c62da3f5d6cdeaac0ec61952a051d78aeb1052c3a04e6d8ce0b697d8c1f50744",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-b1472d4a-57f0-48c0-b67f-22c906b80c7b",
+      "file": "public/assets/hair/Veil_Female_Hair_402.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_402.glb",
+      "sourceSha256": "42f3270d9c37b7e2be12430cc68f6e799bd1664eeb0898b4ea172d546e411824",
+      "editingSha256": "29028f42ca999b09b1bb661304b2b0ca727fe0ce37288e71f2c2881af0cab63a",
+      "unchangedBinaryChunksSha256": "d8f4cac3ee860e7b1b850afd28445049677e2cb2699b77d9c6e46bf22ebad6ed",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-ea28c292-d048-4c2d-8851-1d6b4e33ad90",
+      "file": "public/assets/hair/Veil_Female_Hair_403.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_403.glb",
+      "sourceSha256": "0af794cae28f5794618449b2d4e66a19cf680cfce296e3d62b472a757a42a9af",
+      "editingSha256": "8919e8c23fab1e83f068a76a95c75e2fbda3e31920dbd5cfc287a60e59d8acb6",
+      "unchangedBinaryChunksSha256": "dbdf66bf67bd939962952284c34be4745d2e94ba2d447598a6d7b97c1a8d3f94",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-a53044b7-868a-4ae2-b269-9bc061623e22",
+      "file": "public/assets/hair/Veil_Female_Hair_404.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_404.glb",
+      "sourceSha256": "516425e688eb40dae262d0e473eb01718afd5fe4de8fbd116a8c7f0cbd1d07e7",
+      "editingSha256": "ab153f6f45146d93c92f95467ff218ca7a10e66e16dd7623f9950338706bc2b9",
+      "unchangedBinaryChunksSha256": "570c65ac06e0b777404b92b9ecaec7fdf3e5ab8111772c3daeb6f864fb84cd91",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-c9113cb4-c21c-43be-91f4-1e81d4ba5ca6",
+      "file": "public/assets/hair/Veil_Female_Hair_405.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_405.glb",
+      "sourceSha256": "c7bbe6216e14d286e7ac47541db719b52ab7df10494effec9feeddd186faf643",
+      "editingSha256": "e7cf9346bd678afe11bf9912bbf996ee122d2faa3afa0a216cf07163d70cfc95",
+      "unchangedBinaryChunksSha256": "010fe596f4460ce36e4e23ef69cbd930ec906334ea5bb5470d4fec377fd5e4f6",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-0465d52a-df94-4b3f-aba5-68f090918e0f",
+      "file": "public/assets/hair/Veil_Female_Hair_406.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_406.glb",
+      "sourceSha256": "a9854dd81dc8c2d42fc7544740d8120c8eeb12f64c8deae0cde0ccb33437124e",
+      "editingSha256": "0dda3dcddf53b90ee369d5f64d684ba7d8cf308d3ef744b54ae9f10f4db4da8e",
+      "unchangedBinaryChunksSha256": "d9d3b95669b81f017cac2767935a688c0a3a6c551823b26e150921fc96050842",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-46901957-b5df-4259-826d-5d7b70bd3fd5",
+      "file": "public/assets/hair/Veil_Female_Hair_407.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_407.glb",
+      "sourceSha256": "ca965d678911acc45e95e6566cc83bcf353ac1922ea1ac768d298002850cfd4d",
+      "editingSha256": "e30507c89b9944fe56c8d4028cd0054f41da0cf07f08f2c8d4ccecd6266e5136",
+      "unchangedBinaryChunksSha256": "cdbef419c7418263a5fb178b87b550e7f4a8395d4f8fef997728e9ef67f74396",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-06806669-9956-41c7-9cac-9ed0e458df87",
+      "file": "public/assets/hair/Veil_Female_Hair_408.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_408.glb",
+      "sourceSha256": "25bc17350c79d8d97ce9e9a34456291beb3eb114ed3f2b26dfeed89caae3c6f4",
+      "editingSha256": "a1b6085a61c20bcc9b3f87728c99867107e11d4dbf34b544f956f1a5b7e99fba",
+      "unchangedBinaryChunksSha256": "c59621ab706bc53d34e22104cef51ce29bc4c1b0c7b0ea0f0325aed734c61bfc",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-0dc47f87-be64-4ac7-b01a-fe09b0171f20",
+      "file": "public/assets/hair/Veil_Female_Hair_412.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_412.glb",
+      "sourceSha256": "4db4686bcb37fd09e5953266676ea22701d4667cfa76d1d5329f3bda12f5265b",
+      "editingSha256": "408fe7007db6d4c0e98741a7d73b328a484cae5b8961d158fb9fe46c7ab20783",
+      "unchangedBinaryChunksSha256": "e7da1cce044e4d33265e7bf61c454fdc9ad922efb2cbff3403331892c304ec2d",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-d0ba25c3-968e-4838-a289-cd15f21f4e58",
+      "file": "public/assets/hair/Veil_Female_Hair_413.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_413.glb",
+      "sourceSha256": "d1b4da41956b4f2001b8465d0eb38ab8f658ecbe53eedb8e3dba52f6397247f4",
+      "editingSha256": "2df222fb88d2de08b6c19e04b4644b9e875ce75abbab4d9ac7c77fcbd7173426",
+      "unchangedBinaryChunksSha256": "d1eb6262aa4166d4a5ecb58b77560ec3339ce9ddead6a547c31d76127ac88375",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-30f41789-ccd8-4811-a0d9-7a10477ea4df",
+      "file": "public/assets/hair/Veil_Female_Hair_414.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_414.glb",
+      "sourceSha256": "fc9bf146a4d00fc31d48dbf46deb3e96df19ad850851e367e52d0949e2364218",
+      "editingSha256": "1dbe1456910409f4ab91b9e8d021ef74b3ce98f7554277363d4320a04686adf7",
+      "unchangedBinaryChunksSha256": "72b51f4d90663644c49474abb707f80aba5701a2c353a0379ce7ec4523c1ded2",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-0447a76e-ad46-452e-9302-22bee872d4b9",
+      "file": "public/assets/hair/Veil_Female_Hair_415.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_415.glb",
+      "sourceSha256": "f04633f328f1dd3a5fca226c3e4eec76bb23058a7cd53ad90e2c33eb96bd606e",
+      "editingSha256": "5b1aa6ab42dbe20f0bbd04f38a1bf36087081931a12f9e002c568601c9d4e333",
+      "unchangedBinaryChunksSha256": "27a024d6dc869412509173092d71db63660ea7accdde213c2cf31f3fa4d17abe",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-4d60aa4a-956f-4798-8898-e49e9229aac2",
+      "file": "public/assets/hair/Veil_Female_Hair_416.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_416.glb",
+      "sourceSha256": "ebe97bc1fe915743b3bbd88efb304c580b07fa4aae87d3c311710ceeb6e6833b",
+      "editingSha256": "f9e46180f4d4c0b6e0813b8c7db179b8d2720a9ab85f34995bc2cce71dd36b80",
+      "unchangedBinaryChunksSha256": "a7387518db5f635c0059b4459e81608a5d4f9f64067d0e9d0cb02d8fe7c20166",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-aa183578-0923-4d3b-b9f3-3b34f66854e1",
+      "file": "public/assets/hair/Veil_Female_Hair_417.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_417.glb",
+      "sourceSha256": "0bf88cfae04b4c7fd8f840fcd3ddd49ac3d951001e0853d9d4b19818e5652403",
+      "editingSha256": "f7e6d00ac3139704905dcd4b37db5a3d9a9f92fe0fd2e26c2ccdbb19ab8d8723",
+      "unchangedBinaryChunksSha256": "40e5aecc4c5f45bb196446d5cb5414ccfce4aabaa9443d24145cfa263e5f925e",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-9c8a6799-7caf-4746-986a-3476eb3df6dd",
+      "file": "public/assets/hair/Veil_Female_Hair_418.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_418.glb",
+      "sourceSha256": "7393e06ae404c35b9a7db6315796439a8cfee032ed1a4e3c39a13c904a0f00ab",
+      "editingSha256": "380103bebb2ba1a1c4857ce7312bff9c77836ff35277958179909b64dd0422e8",
+      "unchangedBinaryChunksSha256": "e49a88d63b1eeac0c87dfef6c70554a379170296e65e59d0b55eae0db1f33c54",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-16b0dbbd-2707-4bdd-adfb-ba35e7b7ca11",
+      "file": "public/assets/hair/Veil_Female_Hair_801.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_801.glb",
+      "sourceSha256": "433a5f1d9c72e9baf6de0b030d173fba271f66a164d4ba38619f3f58a51e8bb2",
+      "editingSha256": "42406ee878da0c87f0f1826563480795e9cf4decabd32177ebb997871ef9c2e1",
+      "unchangedBinaryChunksSha256": "d368d9a0d50b224446a8e159d15fbe826e378071111e3ea1ba7b486ced1a1d75",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-a8f454b4-2eef-4a39-9256-613663f50847",
+      "file": "public/assets/hair/Veil_Female_Hair_803.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_803.glb",
+      "sourceSha256": "789ae088332294a120eec84ac658233fdd777e4971709f941874b1528d12c9ec",
+      "editingSha256": "4b3006deef7441a14b327b00077b450a9ebd7597aae676fc9784a8acb4b73bfe",
+      "unchangedBinaryChunksSha256": "d37387c70619472deaf6bb1036ca11653bc805928584ad348d8e94f55c3228be",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-a1addac5-1252-419a-b119-c38acdd85c89",
+      "file": "public/assets/hair/Veil_Female_Hair_805.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_805.glb",
+      "sourceSha256": "645dce8d4020a6fdb485157d5ebce7f0f456a8e0ae7b8c306668f8b1f9a22b09",
+      "editingSha256": "a851ddbf3522a417b0393a1a7b04a05ccc1e8470b65d8e9bb93e2b00d0429024",
+      "unchangedBinaryChunksSha256": "60d2cea98ac27842d1e70e51dae66de1737cdcdf0311c6188b38e969a86cd9e7",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-ef6dff63-af1d-4c9e-8b2b-30643df4023c",
+      "file": "public/assets/hair/Veil_Female_Hair_806.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_806.glb",
+      "sourceSha256": "f5e994214578804d70e7104843a18f583155fed95745b35e1f60724cfdb4903d",
+      "editingSha256": "1dd923531018ed8a6f98fb1ce47c5e60fc6ba9b0a3e826287d2a8a95d5e4a0a5",
+      "unchangedBinaryChunksSha256": "f5f710ad826a71ed457affcba26afde205021ba2263a013ad59bc21f86366fde",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-00cb3b6a-c357-4d07-81d0-6979c83ad683",
+      "file": "public/assets/hair/Veil_Female_Hair_807.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_807.glb",
+      "sourceSha256": "20739ad1f242e91bf5941779a29f16c83b20ea3c9d2f8aae7a7c724f03141845",
+      "editingSha256": "f4ccfc179206790a109340319c5ea8688be8ddbb9c995ae8c6fac5be083e2e97",
+      "unchangedBinaryChunksSha256": "0a33be0d8214175ef39559293e5ffb3da699490c4b4be3593025ab908856b572",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-3e12af0b-2731-47e3-b4eb-ff09f4b18edf",
+      "file": "public/assets/hair/Veil_Female_Hair_808.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_808.glb",
+      "sourceSha256": "0c46df95081c8cd95af5579fca7efb4cca0a92ffa614a1d7f8ac35376f07fcc1",
+      "editingSha256": "fc40cc8465472af41d617092b04221554c5ce92357a2f6b21f761512bca28c3c",
+      "unchangedBinaryChunksSha256": "ce80882d5251d1c2efaf5821490a6e44a23bce921854b320f03e6998fbcc3b31",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-356e9eda-4e7a-4169-a872-3a0736d24dc9",
+      "file": "public/assets/hair/Veil_Female_Hair_809.glb",
+      "sourceFile": "public/assets/hair/Veil_Female_Hair_809.glb",
+      "sourceSha256": "719544aa56b4c206776cbb19ce8c843bc2ceebe229990a9e57f4425e1b12d891",
+      "editingSha256": "b979971cde4e8b1c5e144d985c2059d602771b8f8ac175e9158b79d9b0897524",
+      "unchangedBinaryChunksSha256": "7670a378ca6de1de327d2d90e295ab06935392fe60786311d80194844cec4b37",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-77418b5c-e6f8-4c40-979e-e54540acba61",
+      "file": "public/assets/hair/Veil_Male_Hair_000.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_000.glb",
+      "sourceSha256": "f8c3b3d57459a8a93228bf7291bdb644f76d229f7b00e0b078aef804432d1c2e",
+      "editingSha256": "c3dedffe62bb3cb0f76f897d1904b89eb937cdf6d7e2b43fdfde8f7b6c1c1bdd",
+      "unchangedBinaryChunksSha256": "31ee65b4a8a603e8cb325693535d8e6b414240aa0f6c6e13535c7023d3526f64",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-c2d80600-691e-4ea3-9224-3024184b13f0",
+      "file": "public/assets/hair/Veil_Male_Hair_001.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_001.glb",
+      "sourceSha256": "ade48be60d747374e2c6bcc3b338d6b9bfe4db106993ad4d3496ac046df6930a",
+      "editingSha256": "d3edd4f7c6cd378b7591e5502e4c6d96476d8d763de771c11062c3de79a689c3",
+      "unchangedBinaryChunksSha256": "77888fe5edf5bc1aa8b6737934f0bfca86a3c8265fcee4314e851a44564b3189",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-12b534f8-dcc8-4283-a010-3f96bed0ca2d",
+      "file": "public/assets/hair/Veil_Male_Hair_002.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_002.glb",
+      "sourceSha256": "4d3670d7f4eba6324eab8a18a32b37b2ae1ddcafb335d0fa80d300b8fd43e178",
+      "editingSha256": "eef2c4c566b8d74c686522275531b4d02bbecc86ece561d5cb647e9447490f97",
+      "unchangedBinaryChunksSha256": "570b6150d519e167cf055677fb43632fa0c0994d3335d714957b49876a280a21",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-ea473385-f32d-4bf6-97e8-76200c838a61",
+      "file": "public/assets/hair/Veil_Male_Hair_003.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_003.glb",
+      "sourceSha256": "6cafbe76f6cc69c65d557733602eaf7be364f75ba43615a4283476a260098000",
+      "editingSha256": "457bfd22fa92cedb7223a8050356e4faacf6818805be2ea3e8e9518548433de5",
+      "unchangedBinaryChunksSha256": "c46fcde6772ca4258acd68dd11a54e29598ef82e6bfdde018eda3b53d474d812",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-1c7260e1-b538-49ae-8502-0cf13499590e",
+      "file": "public/assets/hair/Veil_Male_Hair_004.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_004.glb",
+      "sourceSha256": "0c61c416df70645ca5e8a713b4305ea183fb5b05d72456701af3e69677a76874",
+      "editingSha256": "476b21bbe70540c6d15bc6455356b1b52c08f7101cfb64e16e166f07db4e4908",
+      "unchangedBinaryChunksSha256": "e246d28ca5a607aba2dd07502edbf99d8f52d2f45b58901cf62c72dfb6413cd2",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-453cde82-f52c-4414-b72e-49777ce013a0",
+      "file": "public/assets/hair/Veil_Male_Hair_005.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_005.glb",
+      "sourceSha256": "b06c3d1dd630176c0043b876409910cb049d16c03be904277eb3246b63d02a85",
+      "editingSha256": "9d3a31bfb4c9e4a21419e645da94ca124e6bd3122ba9adfc6f3d867c4c980cf5",
+      "unchangedBinaryChunksSha256": "5bd2d2ff3031c25b9668c394353862b136db78f87c30178e878490a08483f742",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-ba9e5d26-b8e5-4b6c-ba16-5b86d607a22f",
+      "file": "public/assets/hair/Veil_Male_Hair_006.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_006.glb",
+      "sourceSha256": "c7a5ed1300960b8e8638ce9785f6a42f6c46d9ec318227c6c85835b1f14c88cb",
+      "editingSha256": "899a9924e8863786de5bfd34090b27a5f2799e7d342aa7474f5ce64c22f6ac2a",
+      "unchangedBinaryChunksSha256": "a3034a6bbfe4f9aeb4be8e65dda01224ec422f0b5824da9f35e19d0026030301",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-f3feedea-a2ea-400e-a745-4f5cca9c43c7",
+      "file": "public/assets/hair/Veil_Male_Hair_007.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_007.glb",
+      "sourceSha256": "9e49bde15edaad1b4e6a8035e103e7d2152c62af076c483b8a4c4db2e3ff288c",
+      "editingSha256": "675643a61fffb47db3a2d655c90ea68681b2103724bacd0434a0ddc1b5139968",
+      "unchangedBinaryChunksSha256": "2afe06a5f799df90ce0083a92d9efaaf11b9d4b66e80be610d4b2e2f1678cf4e",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-329d6894-a783-484e-8724-10c87709c222",
+      "file": "public/assets/hair/Veil_Male_Hair_008.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_008.glb",
+      "sourceSha256": "074c88190c7544ed3d744236519f4479b441f0eda4c80b2458ff217068d4af9d",
+      "editingSha256": "d56962044129ed18925d195c6f48ff5ea61c05e8007c02e90b2ff7257395dead",
+      "unchangedBinaryChunksSha256": "55316d7327b9f71266c700c7ae71dbfa4414cc7da05756be6266c2d0aa8cd396",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-bbebe417-b389-4fd0-b95e-b1e6f0433383",
+      "file": "public/assets/hair/Veil_Male_Hair_009.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_009.glb",
+      "sourceSha256": "ec74877e1c724fa94f803e3d018474f72b83ff765f30d2c5a200077e9174633b",
+      "editingSha256": "bcb2848d700accafa684b690460be01ea51d3a5a7745e8b0a6fc1006f2508a27",
+      "unchangedBinaryChunksSha256": "81e1d474d7f279911f3f55d138994e3f4a620332e89e7ef47f0980cba8cead53",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-0cfa201a-6a8a-4101-9c81-e0d5f44a4a93",
+      "file": "public/assets/hair/Veil_Male_Hair_010.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_010.glb",
+      "sourceSha256": "89d90375fb4c46f9f22860cbe8cbab1269a4acb0b5c7396fc6cc4f983a159c9d",
+      "editingSha256": "ade5aae04027abbdc7b14f4eddaa7d09fb492c590e91376b852b8910aaca27d7",
+      "unchangedBinaryChunksSha256": "07daac40ff1a8ef31b659ed0a71cefcd83b1b1a114aab97d4353396a3557828b",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-fa6132dd-aa30-494e-a474-1928e1ba7a3c",
+      "file": "public/assets/hair/Veil_Male_Hair_011.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_011.glb",
+      "sourceSha256": "f4bdb487b94283625e9bedbb48d2402914dc885adea8a7fd99b1c28dbc7c52f2",
+      "editingSha256": "5fc3d6376a1df0cd1ff5ba4947b522c77d20cfd0a98f442d3791c70dbb75825a",
+      "unchangedBinaryChunksSha256": "ff7c2f1fe45b5b5edf0ea9ad27b0d7a9a92b0b3827580d4a759bda05984f4707",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-6295ba6c-da1a-463b-ac3f-042af8e7ad2c",
+      "file": "public/assets/hair/Veil_Male_Hair_012.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_012.glb",
+      "sourceSha256": "d8707ab69763efbb38cffe5e6d60c55ccee9292812a8fd5a9388587d6dd0edf3",
+      "editingSha256": "f8cd56f428a62c62494478988afd5bd053e9f207404c5e4452caeac9eaf3b5fd",
+      "unchangedBinaryChunksSha256": "4875503d47b9f2dcdbc6952decfce6ccceaa8d2f404dc07702eb543be21e129a",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-8a70d5ff-b56c-4219-aee6-3ea03e4e0633",
+      "file": "public/assets/hair/Veil_Male_Hair_013.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_013.glb",
+      "sourceSha256": "40a5d00476f819881503c44a724059c292cfefb772bb96efdfccd52013b93c0d",
+      "editingSha256": "7450331b22bff6335ea5fc690d4905b15c6be2e68d24d5d098787d95f94b35a1",
+      "unchangedBinaryChunksSha256": "94bbb6d630f92cbbc3363d456b154d23c7eee02a7f6066cd02a65373c30cc4cf",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-998b93ae-64a5-41b3-bffa-edfe6d5d5d84",
+      "file": "public/assets/hair/Veil_Male_Hair_014.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_014.glb",
+      "sourceSha256": "4b474bccbe360839c91860505f63ce507794fd96de61ee32f13ca57d3997f25a",
+      "editingSha256": "328cdcff56f5137d319514bddda39c569d09e2612eb41cfdf5325f736bb3d693",
+      "unchangedBinaryChunksSha256": "1e37ca8d0c706f3ca129875f96efcad63a9165a82365d93780e4030cce9c70bf",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-262ec2c3-9854-4f1e-abc3-7cbaa2d47843",
+      "file": "public/assets/hair/Veil_Male_Hair_015.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_015.glb",
+      "sourceSha256": "552ca91ee5a4813b834473927b25d3cd24c263aa2343f6fe1df14d45028abceb",
+      "editingSha256": "6482d9d128464cd57d2c1b8f9e075716bc0f41dd58d127c4184f1378b70a8e78",
+      "unchangedBinaryChunksSha256": "0116067de484ab25ead00528bcc305009ed7e1eb44c70699825c9ca9cc7c5d12",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-eaeac895-43e0-401d-950e-855a8561e304",
+      "file": "public/assets/hair/Veil_Male_Hair_016.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_016.glb",
+      "sourceSha256": "60105b7da7d91f3bc4d9dbad2ba4e19656c205923ac12bda49b7c75716099508",
+      "editingSha256": "6915b48257c1b39700ae6efdcb181fc19122fe0b32e325ce5ed356c36e9438ab",
+      "unchangedBinaryChunksSha256": "678fb8f400040f3e6097011f51c809e4f1425b2ff1a0507d300bde5f99865d49",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-f469fe31-c87a-4b85-8189-286197c2541a",
+      "file": "public/assets/hair/Veil_Male_Hair_017.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_017.glb",
+      "sourceSha256": "899581054fd0cc10dd9c5d0c30885d5b47b85df6a77c68dbe7e16c9b91366b25",
+      "editingSha256": "a0dd19e3c20142b6ca69e9ff78bc66da1f1e85d0df23dfeab190d46f3c60f27c",
+      "unchangedBinaryChunksSha256": "50e335c9e84574c0299cf2486e67a6a523fe763839774f20aa7f33432505bde6",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-bbe30d5c-db27-4074-8a52-f2535f42aa93",
+      "file": "public/assets/hair/Veil_Male_Hair_018.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_018.glb",
+      "sourceSha256": "31fa8d58c58e11f0896472514f7267918da354e105e3ed7308f9cb206f9bc8c9",
+      "editingSha256": "66efa7f5a1e2761169c312107b59fed3945a6a9be642ae33e410d9ff31dea4a0",
+      "unchangedBinaryChunksSha256": "eb2587e5515c80604eadac2f704f6918315120bc46be8420fc1738644bb0c404",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-4048e886-ff1e-44d3-8b03-138e7a7fc74e",
+      "file": "public/assets/hair/Veil_Male_Hair_101.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_101.glb",
+      "sourceSha256": "f53e5e59c9ef9354422595d09358493fe826024f38bd6be713a72f4fda9fc4f4",
+      "editingSha256": "0dc2ec45482044c8688b65b3a71024fd9fe9ad06b660fd5bf8825ff8f4020a9c",
+      "unchangedBinaryChunksSha256": "31c6d25b401dcc70507e0ebcf4a3f01f4df5cd34bb0c5d3f6e83ead30d19c189",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-2c082d4d-1a1e-4224-bd06-8374e5278c03",
+      "file": "public/assets/hair/Veil_Male_Hair_102.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_102.glb",
+      "sourceSha256": "ae57cf09ae44adb20133873e45bf552966b26babdb0f16165f2ee5f94a6c0f99",
+      "editingSha256": "5b5bb0f7efaca0990b264ed2c3e87e94752018344e42377d0ae02e63ba7212d0",
+      "unchangedBinaryChunksSha256": "ffdc796ae1c7b24e56cc05001616d488b2a32e858af0ba78edc4e637240ea6ee",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-f2ca8d56-c5a7-480a-b389-ca650592f7aa",
+      "file": "public/assets/hair/Veil_Male_Hair_103.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_103.glb",
+      "sourceSha256": "3e10de71f1c736d8571d78b0bfe679e451a709ef70ab1b102906b6b208c734fa",
+      "editingSha256": "0c7d2749ef5b17ab31d3dfc0c4af65061120ea3c650a6c4dd888f1bb5f2cb181",
+      "unchangedBinaryChunksSha256": "f5c0393dea6b70bcebd1dbb9e60fb79108ed81c15f58c4b9a12db7732e83cad9",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-545866c2-b22d-4175-aa61-3d7c465c2936",
+      "file": "public/assets/hair/Veil_Male_Hair_104.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_104.glb",
+      "sourceSha256": "5100f6cc664605ec99b36463f9eb60aced16d0e9cad939374aac49f429bf5c11",
+      "editingSha256": "1c2c4dbaee921ded8492e33b6ed7f430b3a8785362775272f34c927c3ad43977",
+      "unchangedBinaryChunksSha256": "74658ef696f92d9c72834d27dc0ca34817c61feb03daac7005e8859571b9ad30",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-ec68ff07-d7cd-49f2-a8a5-93f55242f9da",
+      "file": "public/assets/hair/Veil_Male_Hair_105.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_105.glb",
+      "sourceSha256": "d645a7647febee93b9ec7cb516b7d5e2a4fa8ec1718c716db6fba30a537c626a",
+      "editingSha256": "35095aee5b9a63318df19d84acbed1bb165e591a57641bd54dcb5b984e629126",
+      "unchangedBinaryChunksSha256": "59608735d904f628fcd0a60866f0e74b94f3516d4cac18695ba0ffcf6c56e38a",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-7f483ab4-272b-4223-ad12-95090b25795b",
+      "file": "public/assets/hair/Veil_Male_Hair_106.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_106.glb",
+      "sourceSha256": "84a99381b4e5923c2209b2d83e77e74d5d3189b78a07648563620e4766910658",
+      "editingSha256": "46469db75034746a53d23a8be0579f1c4d330b57b06f65084c79c954eaa50b7a",
+      "unchangedBinaryChunksSha256": "c367a66fe96b7dd02cf0720c7624653464fda2bb9ee21608c3b9e66ed32ed21e",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-47be2e7b-ff70-4a75-ac96-86ac6b679361",
+      "file": "public/assets/hair/Veil_Male_Hair_107.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_107.glb",
+      "sourceSha256": "b176a5b16c51b1b1a15559f3ba6f3e132dde98e3cadecf595bda4af10e17a97e",
+      "editingSha256": "dfb410005781439de2776af42a83fb0137712bb74d46ae0c274182752016892b",
+      "unchangedBinaryChunksSha256": "d2e1b32ecebf0cee5d4d062d6c8c5e6e069c5158b9230c1835228f7318a373fb",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-3225f1f8-5653-4d56-9a1e-c6fd2b5db076",
+      "file": "public/assets/hair/Veil_Male_Hair_108.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_108.glb",
+      "sourceSha256": "ee1be0f889b69d8558d973f2ab65911147c3745ef9eea17177268850a226df56",
+      "editingSha256": "da4e2ea518ef68b695cd2edb058e9cf3f37a324cdfd7534b46e0dc825237f445",
+      "unchangedBinaryChunksSha256": "3d3a5f9ac3f126940d97b1b9c23d355d47ef653a82a7186299d4a82aefbb9cc7",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-cdc11f90-e780-4621-9afd-1e54e5364fc4",
+      "file": "public/assets/hair/Veil_Male_Hair_109.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_109.glb",
+      "sourceSha256": "e37eb80efa02ca9502aff9142009ffed09559562ae7fa586aa77f93e8b989cc7",
+      "editingSha256": "4e35fcd87519e9e9d33baf141b17f565598f7f7a7a9f0c368563e654a2c084db",
+      "unchangedBinaryChunksSha256": "973919f55f6e8041a1f1195daaa31b1a80b16a17d898255ce94c999c3612821f",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-3f5b1ba0-e1b6-42a1-9534-a744965a15b6",
+      "file": "public/assets/hair/Veil_Male_Hair_110.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_110.glb",
+      "sourceSha256": "534c3a8b4c480d1ddc673d728177e13a1564894f304fe9577319ab2d641ace38",
+      "editingSha256": "8d4b9683f3d91ed141ca0073aef0f4f354461f153a13416ff29a269caa22d270",
+      "unchangedBinaryChunksSha256": "4b1b0eb75f6a94442fe615fed2ead7dadacbaaf0da2b1aa60ff9e51c79aaf8d0",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-7cee4590-6972-4041-a410-ad6a2a2f1ca8",
+      "file": "public/assets/hair/Veil_Male_Hair_111.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_111.glb",
+      "sourceSha256": "838659679abcc4139268fcbb9561cfc5e7d520f3ae21095ed7f1b5ef58f81fe7",
+      "editingSha256": "95e5b75ddeb96e01ed5d264845f68b36081676c851ef81a06d7e55e8b1813ab6",
+      "unchangedBinaryChunksSha256": "04e0dc5eb414087e9284b1bbb1d9bb4da1590860bfd2935be8813f21df9660b5",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-fea431a6-9b9e-4a58-97ba-ce0d6a4263ae",
+      "file": "public/assets/hair/Veil_Male_Hair_112.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_112.glb",
+      "sourceSha256": "b99720d346ed4f4bfbbafb46664a6833747012ff7481a42f6964c3fff991ccb2",
+      "editingSha256": "f072cbd1e5d9a8e3a89d4ac377ff2f45783092f568b391d0988c23d520fed15f",
+      "unchangedBinaryChunksSha256": "18ef8757a3ca7e18e8430c0ed9b920520e5f1867617da0dc296c03cae4077a0b",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-14284781-7d52-4d1c-a224-9ece403d7080",
+      "file": "public/assets/hair/Veil_Male_Hair_113.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_113.glb",
+      "sourceSha256": "b0a3275f24255f47aa8e985acfe581bd7b0a6e590d9181b3da85e31069348521",
+      "editingSha256": "1242c91c244d8b713b94f820f81bb2a807921794535d3517c7c515f0a816b713",
+      "unchangedBinaryChunksSha256": "128c7df54fe25e3031f52d78f4ce3f9c2de95c21b2335f2185b62e5901bb8787",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-0f34519a-1e81-4b3f-8f91-93c34fc5936f",
+      "file": "public/assets/hair/Veil_Male_Hair_114.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_114.glb",
+      "sourceSha256": "847c6090fd889e1312c994e59a9be63d37f329421f35255fecba213f9e87e36b",
+      "editingSha256": "76d1076674567583929d896fb4f9bc6ea36b61a11a4ae75f0b7b790a455b00ae",
+      "unchangedBinaryChunksSha256": "97b76151de6648544e3ef42cc25d3e3c89c2e3ddd767bdbcb7acb3d776c66377",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-bdabf41f-52a5-4d54-aecb-8e7a95e101cd",
+      "file": "public/assets/hair/Veil_Male_Hair_115.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_115.glb",
+      "sourceSha256": "1d5731b380dbadfbc40b10db9bf7e076ce41ba21acefa429db68853fb41b2df9",
+      "editingSha256": "9502f31bab2dce0d5999c046d52bc88d947afd078b5ecfb3d2aecbf305238c4b",
+      "unchangedBinaryChunksSha256": "5e18e6dab5afd29bf2be01e7a78f531699db0c4005d03ba81075e5e0ee2337b7",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-35aca58c-1771-4587-a765-bfd435084396",
+      "file": "public/assets/hair/Veil_Male_Hair_116.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_116.glb",
+      "sourceSha256": "a0b62be3cbb8d5e283a78beffea40cd3b894e10e5cc93cb7a2895da6850e06ea",
+      "editingSha256": "76b32c9e0b72d228c516e03bf77aafc7bb802efc303621f3b68bf80bb3faaa28",
+      "unchangedBinaryChunksSha256": "db49250009e6c327cef4e0974c3846827d52c6c0ae71413a4a5f0325b72776d9",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-cd402400-8140-4ff9-b500-2f8b5fa6471b",
+      "file": "public/assets/hair/Veil_Male_Hair_117.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_117.glb",
+      "sourceSha256": "6ed2cbc14ba263a2bec5347eab6633db2092db5274067cb2c3830a79bb760013",
+      "editingSha256": "b9e2a630b5403843fd56878fd603f07ceda4de425d66aa8dae8ce6444b719edd",
+      "unchangedBinaryChunksSha256": "ce2448dd09eb43e6b0705efb2f0237594e58d1e22a7f44485ae8dfa21e0b4f71",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-2e0e1090-dfb8-41e7-855d-03a7dfc658e7",
+      "file": "public/assets/hair/Veil_Male_Hair_118.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_118.glb",
+      "sourceSha256": "542d4d079fe43b518de1e7f4b47407f8f36d704d4806fcfe01576cfff30133db",
+      "editingSha256": "c98eeb3bd9dc89148f0d10c229d75e5bd781d7a7ada53b265dac3afe9cf545c2",
+      "unchangedBinaryChunksSha256": "1f79dba13f0620a1219245940d82e5d780cf636606fc4dbdbf0d8c4a210b0051",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-bc804422-80f3-46c6-87c9-624504d81426",
+      "file": "public/assets/hair/Veil_Male_Hair_119.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_119.glb",
+      "sourceSha256": "ea675e82d3e9b48e4d52ca4b3be74fcccb9447f4c72f59978f3f895c31214492",
+      "editingSha256": "a5dd27fa9c6eded77c7a08a6f065a4f97061f0599048e8c46b48f74a26613e1a",
+      "unchangedBinaryChunksSha256": "f6535699ee5b5df8ad7ab692276ac4b30a5af84db720bf4e0a70fc7b325c2bc7",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-fff568c6-1e61-4e09-add3-b2e6b06c36d7",
+      "file": "public/assets/hair/Veil_Male_Hair_120.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_120.glb",
+      "sourceSha256": "793d287331bdb836f6feda79de101a080ce06fbb6ae7e6fef6bc5fc28e951c68",
+      "editingSha256": "d3aa9d8aaca891dd6bff90eecdb31a2428613cea3a37a87bac8943dedb2b9f69",
+      "unchangedBinaryChunksSha256": "35fe55ae6422a5e6f801ee41b1f78d5d4be6200a41697928f54064f41f3a21c5",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-3ddb6c7f-45dc-48ec-87a2-25067a6cb1b8",
+      "file": "public/assets/hair/Veil_Male_Hair_121.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_121.glb",
+      "sourceSha256": "ca8183904e9b40d294ab6c65e7558171adfcaef3450d046f254283a3bf48f228",
+      "editingSha256": "e6a218cc8eefd7c9bb7f7964f33ad7be85b42d99fbec2ded13cd73af0b7fff1f",
+      "unchangedBinaryChunksSha256": "cf5863c8709e43c2138c7065f8ba10cbb0057c687247bde29eeb45f43fdbb54d",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-74ee81d7-fbe6-4f48-8eb7-1d56a040e889",
+      "file": "public/assets/hair/Veil_Male_Hair_122.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_122.glb",
+      "sourceSha256": "911ed0f40e61749fbfda79ec94d2f7736b4e2979a9dafb8016582c96f34ac552",
+      "editingSha256": "4a8031c97c798206030200ac1bf71b40ce494a2f0bd5af1e72608e62b1d39f43",
+      "unchangedBinaryChunksSha256": "8bd92d00b73f52d1518e315d3e2baa06fd40d08cee46e283d2ee5b2b3d8838b2",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-bd431010-db99-4918-909a-f92f143b09ad",
+      "file": "public/assets/hair/Veil_Male_Hair_123.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_123.glb",
+      "sourceSha256": "81d84783b6bf56a044463486ace4e3cec594457c6b523e0841d1566c507659c8",
+      "editingSha256": "504c9a81fea820f6d966ca1dd6274f0f7a73bce2f088bc94b52ca280af0e10ec",
+      "unchangedBinaryChunksSha256": "c8047d3ba41aecb940891f1721118b7162635e9a785703798b8b340fcc870f95",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-2656ad4d-49f4-445f-8855-7d48d77fe1f5",
+      "file": "public/assets/hair/Veil_Male_Hair_124.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_124.glb",
+      "sourceSha256": "b8b739984ac621b6eee2cfca5fabadb042be01377cf45cbb644f14d5b291e10d",
+      "editingSha256": "76b7301d7f7ec364ae9fd0bb8bd024d7e1bd22b1d10e2dd68dc065768a7de49f",
+      "unchangedBinaryChunksSha256": "eddcc4e2020404a813940d899680d37be5523d798b374d06a13548cb1c0953a8",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-e1e814bc-8b97-4096-8f36-47c5c415166d",
+      "file": "public/assets/hair/Veil_Male_Hair_125.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_125.glb",
+      "sourceSha256": "649e6dc37f6971d11076f751ec5ef97b71771ba7d5767f1620d1dac91badb933",
+      "editingSha256": "c65b4ac35536f1577f745d9829ab2ca9e54ce4e5a1fee8cc3bb90197a8969b57",
+      "unchangedBinaryChunksSha256": "0a3aee6c2f6983fb6d48c35623b22876ace891dd56f20232f78c54aaf61bc8a1",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-2413987b-39d0-479b-b383-6faee6cb9733",
+      "file": "public/assets/hair/Veil_Male_Hair_126.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_126.glb",
+      "sourceSha256": "8d4723c34c21938501052c998e19a7ab5285297f888544002078a1716b24b2d7",
+      "editingSha256": "04d1e98b5a463f048973989835e7a7b01c9fdfcb25b42c3ecbd996e67908c21e",
+      "unchangedBinaryChunksSha256": "c2f8704ed216fbf3e0950034f03c38847070e17ecb9d7c4dc125b4acd0bf16b3",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-95b2db7b-c86b-4660-9ddf-077c7383fba2",
+      "file": "public/assets/hair/Veil_Male_Hair_127.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_127.glb",
+      "sourceSha256": "18395ec3927aa71651dcfe7f299e428eb8abf8d61997ba38545e4f15649e18c2",
+      "editingSha256": "436f803ea73c3d52b4cdf584e6e4393e7a0eff336b78c2f54b3d5435a353670f",
+      "unchangedBinaryChunksSha256": "e21bb6ca431228e6c407ded9da08a3f956015bf9a92d5172a01637deb1eec126",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-39b0515f-5c73-49ff-a534-a7af06a047e6",
+      "file": "public/assets/hair/Veil_Male_Hair_128.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_128.glb",
+      "sourceSha256": "fc8835a5fe138fcef9f4cee4b1de30c4bc44f174134e613fa426cf9a222cca49",
+      "editingSha256": "56253bc9f3f34943b91fa7bdf9b838298f857a98a78a7d859002332d054137f5",
+      "unchangedBinaryChunksSha256": "ebe6e8cbb4099ce6cc81ebf6ff0de0085857a50dced37f48cd56d9bc141192b2",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-b670c678-ef63-4978-85d3-099a23175555",
+      "file": "public/assets/hair/Veil_Male_Hair_129.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_129.glb",
+      "sourceSha256": "f181fed7cc92628b8e4b170970f8e09de04845c813c707a9e14fd48be207f4c0",
+      "editingSha256": "2a8b1a5ebbcb559140b7106968ee183c8a197a29552e57eb5648acd1f5f720a9",
+      "unchangedBinaryChunksSha256": "1b24cb8198f4c2638a462f228d6c66d94d51af763ede2887aa4743e0cf5a1730",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-777ae5fd-c2c9-4dad-814c-97325f441f2a",
+      "file": "public/assets/hair/Veil_Male_Hair_130.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_130.glb",
+      "sourceSha256": "9e7ab50d3a03232cbbaaadadd0f2c86cab758407d71a7d86a68615805f3918ac",
+      "editingSha256": "d902eba8fbd4330472cd5d4c6b554cebd184feb58abb2ccc79a7c2807d88ce9b",
+      "unchangedBinaryChunksSha256": "091aaf1c83809aef8165ca09ba35c26e4892e1d2cfe4df94f0b7bcb03244a9b8",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-c8850133-863b-4252-b627-a3d68edd20e5",
+      "file": "public/assets/hair/Veil_Male_Hair_201.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_201.glb",
+      "sourceSha256": "6f12d65873a57316648b2c0c2a3a58362b974b5ce1e0600e0c60c989c734e177",
+      "editingSha256": "8c00d9aa2d4a5e3864c281c56dc8ff96175a3a09f124cf5452dacb57c5a4179b",
+      "unchangedBinaryChunksSha256": "6f50c489e380b27fee92b6515272468187f10dee08a14ece847abf3cf33cf190",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-f29cdd85-6ce9-49fc-85aa-7798c172d9c1",
+      "file": "public/assets/hair/Veil_Male_Hair_202.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_202.glb",
+      "sourceSha256": "0526142a6b152a0ce89639dbd21ff77cd04cd66d5cc8409c4351b4e54bd17544",
+      "editingSha256": "147cef93b4720b3e952bf7749ab8a5bdfbe2969d8fb3619e4d974c816b366474",
+      "unchangedBinaryChunksSha256": "bbcbf475980c06e09e5f0fe8ffd977b2eeb79ed376b0b877dd32136a429c8609",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-b6699f3d-2015-4b5d-8fa5-a8c2f987d7e1",
+      "file": "public/assets/hair/Veil_Male_Hair_203.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_203.glb",
+      "sourceSha256": "b5b0dc34c0c7b3e8085acd65f9bc6b588bf3fee7f2bff1d46d38470911c6559a",
+      "editingSha256": "7de1ad86ade2e5b7a4a712e899ba16a984b158d6128e8acbc956122fa9897cc0",
+      "unchangedBinaryChunksSha256": "361e61c9d8699576f76da093caca5c9872d8f2eea4e365b994acae089dff9e65",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-91b2f465-cf07-44b4-8872-44cc9c52c478",
+      "file": "public/assets/hair/Veil_Male_Hair_204.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_204.glb",
+      "sourceSha256": "dcff873099afc4fc74118aee4805b31a8dc0d1428c22f1a3b00323c4c441fa30",
+      "editingSha256": "a678b1e5c233f757330363a9150c608f13222a9c3331bb1e5aa94514fd9eb011",
+      "unchangedBinaryChunksSha256": "61df05db55e3c8c363f22d0bf4eb55334f2ff613b4b9882d7bf375db58486321",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-67140cf8-2275-4d2d-b1cb-b9c59a1e05f6",
+      "file": "public/assets/hair/Veil_Male_Hair_205.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_205.glb",
+      "sourceSha256": "2a8814f51a1615d622bf8d10ba78e92bdf63dd591e201eddd044a9873887c5b3",
+      "editingSha256": "9addd4f1c9e7e6aea2f88d28a2bd918e7b172d35f7e9cb8c08fa89ffb0011322",
+      "unchangedBinaryChunksSha256": "0ab4a115f2f4c40dfdf45d33b0e3c44cb1bec030bf253ee882dbda827d64f33e",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-8d3295ed-ea85-46c1-bcdd-ab5f1d9f6407",
+      "file": "public/assets/hair/Veil_Male_Hair_206.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_206.glb",
+      "sourceSha256": "e3cde0b3b230d33ad4e2d1b3e44afb1d92949f47c78350b51c2f01edae5a6ec3",
+      "editingSha256": "1fe39bbf29d156ca1b47d4cb1b53066f9e77a0b17d390e1093d068555205012d",
+      "unchangedBinaryChunksSha256": "ea74e90cc5c383ca6395bc07ce25ac9697a3b53b7e2987b711429e2295d6f72f",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-447abe00-5e81-4d33-8b22-3ca20f4247be",
+      "file": "public/assets/hair/Veil_Male_Hair_207.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_207.glb",
+      "sourceSha256": "7ad79e62321988b45033e088e74e5fdba32c2b4aa21aa421402c5303ee46af6c",
+      "editingSha256": "d1699084a8c1a494aba2f8a79c88ed242404c39e8fbeeee638e593665fcb000f",
+      "unchangedBinaryChunksSha256": "05fafbdb7da1a3db58876d61ff9d5a1517976163265030b72f0f5ea3fcd273b0",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-a2518f41-0871-40d1-a883-a661d3e4a382",
+      "file": "public/assets/hair/Veil_Male_Hair_208.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_208.glb",
+      "sourceSha256": "b7f486e8df308877b46d3d1a6bc0b004855fe9460b558601e45d3f27b902c8f9",
+      "editingSha256": "6deeb1a7cf810e71e6748faf706fea99700bb94d71edfd3c57ff5e442ba986cd",
+      "unchangedBinaryChunksSha256": "1b922de772c10339718a74c0e2e1a5c8053f108c4654c18e821704b3bf8cc68e",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-d864ce8e-cace-4ace-9b92-b98b493d2a3a",
+      "file": "public/assets/hair/Veil_Male_Hair_209.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_209.glb",
+      "sourceSha256": "cbf4b6722c6a6b44d9868b7023a3f1644f86d1b532d71244116381140e76adf3",
+      "editingSha256": "4c267f616ceaf53f31910ed8cd2a5a9491771bfb021227ef5cb02d24d8f31eb7",
+      "unchangedBinaryChunksSha256": "89173d8d979a1918c6a8be7ac4c41a68c138c14e41b27f02c1c9eaf242eebc3d",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-ac1e7313-7dfb-41d9-8f7b-edfba4f346ff",
+      "file": "public/assets/hair/Veil_Male_Hair_210.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_210.glb",
+      "sourceSha256": "c66bfa8f3dd746bed3fee6d1a406299db9b83e7b018f87a9954403000cd517ee",
+      "editingSha256": "2354ceec296f9d166b5f1066495b6ca06a0d01b7f1aed0ab7cc8daac270350be",
+      "unchangedBinaryChunksSha256": "3e98239481e8c77c60ab9192d0fd15d7c77cde7c81387cea21e975d032c35970",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-819395fb-b984-4082-b402-f5cfaeb8f211",
+      "file": "public/assets/hair/Veil_Male_Hair_211.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_211.glb",
+      "sourceSha256": "0559f8fb6212559c34336942ed4352fc06ed4a2a8ca357e7835f0985b95c9e09",
+      "editingSha256": "007f596dbf7460220473bdd6c56c50f963ebc9cf44026fed53e8bb958b7b1819",
+      "unchangedBinaryChunksSha256": "ad5d7e270283e6a27240553a3360375dc929f4193c01ca9605e50fa719484c0f",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-7f2a1fe8-ba7c-4918-af93-dae2cf4ab384",
+      "file": "public/assets/hair/Veil_Male_Hair_212.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_212.glb",
+      "sourceSha256": "429cbf2caf531ee29db1eaf65e98ac7c874196f9827d3b95bd649d17d0ddfd4c",
+      "editingSha256": "7d4dd58965b84fef817c2f8a7922450feba311d8a3345ed372cfc01427a52854",
+      "unchangedBinaryChunksSha256": "d86a1ce9348c859f0e0f56e362892effda8d97c9264c1e37ff3d97de62d56c2b",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-0ecbc2bc-119f-461b-94e2-79c6f43074ff",
+      "file": "public/assets/hair/Veil_Male_Hair_213.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_213.glb",
+      "sourceSha256": "35d93ab0f8727b2194e9f811a5878fe0bd24cd954945e93e9ee494df1612b08b",
+      "editingSha256": "553e17cbc18ab6675b2efe7ab30ec8d11c684c87670eeeb38f112896803f9bf2",
+      "unchangedBinaryChunksSha256": "e2d27c52eedaa71ddde08d491d25659598cda632a7da44612b9211188b58c94f",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-19a51ced-6f65-43d1-9645-08ba4aad2f92",
+      "file": "public/assets/hair/Veil_Male_Hair_214.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_214.glb",
+      "sourceSha256": "0bf913b5db24e42c4bfd4636c3aae1093021a7fae3e68e5caab691db7261c04d",
+      "editingSha256": "e26c60f26baae1a0bf13a810aedcf77b352df9b5e1c75ca38813acf5bb55fb8a",
+      "unchangedBinaryChunksSha256": "be38f3cb0ba4f61528f08db4e20b67de08542593a73928d65c7d5c4c93340e28",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-b18f8940-035b-4f10-83cc-41cff4fde104",
+      "file": "public/assets/hair/Veil_Male_Hair_215.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_215.glb",
+      "sourceSha256": "2f70f4be794cbd3e91c0c9694ed6206642784e1e0ae3d8e8ccd3eddd73d61c8f",
+      "editingSha256": "0afb73530213eacb93f57d4d87038fee9efc9bd6221872cd23f6c74701867bc5",
+      "unchangedBinaryChunksSha256": "d7f9f41354f3bcf8c9b7978b315891b4afb79b50307c1d9979bfd88f4e5ed9fc",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-9e6f80c9-1c25-4100-a706-c92bd632383e",
+      "file": "public/assets/hair/Veil_Male_Hair_301.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_301.glb",
+      "sourceSha256": "5fd9c586530ebeab80948fc226aa808024a2c54edede7750819b33175a0ead8a",
+      "editingSha256": "f884c2e79e54fa83c728623587b5e1f4e67f93998700eab49c49e62e94785b8c",
+      "unchangedBinaryChunksSha256": "fca6b90891fecd13628d8bee0c06e3783fccc79ef88b35e3876a085570ca1640",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-728e01ad-9463-47aa-93c6-ac3b6120cef7",
+      "file": "public/assets/hair/Veil_Male_Hair_302.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_302.glb",
+      "sourceSha256": "df45bc6f1c2b663e5f79ae52b8df759fb518b60f966bb40cbd2b07e4a6c93a90",
+      "editingSha256": "03be5e0239baaafb8e3603c51a2b9d9f6128ef2461cb6eb8809af981b2126003",
+      "unchangedBinaryChunksSha256": "02ba5a7c7dfd02a1b58465c8d3abf6aa76d3ffffff9f0a9d233e69b282eb8244",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-5b1c84c5-d1d9-41fd-be56-0ff377eb8733",
+      "file": "public/assets/hair/Veil_Male_Hair_303.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_303.glb",
+      "sourceSha256": "f52ec56178de068072c778c8e97ad13b6aa944d4d121ff3b364d18c8e0370f36",
+      "editingSha256": "8816443b0dc22a8af507984561daea697757319432dd7e8e3c9c73a321a5e291",
+      "unchangedBinaryChunksSha256": "d43f63fde57ff948dfa74d0d6b3d76a195ce6ddf3d8e1760f308571291ac6c48",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-6af4c4ba-f229-47d3-ad64-2502e9a78768",
+      "file": "public/assets/hair/Veil_Male_Hair_304.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_304.glb",
+      "sourceSha256": "dd3f88496238ed9eea0865478ce47af275bc8452965ff66a0caa578440fd31f4",
+      "editingSha256": "84efff73539e62d37b584c0bc0d19f7a5bc225f7e924ccebe2d10761be5831d4",
+      "unchangedBinaryChunksSha256": "f2af5f24679cea54bc1bd79bfe5ceb22e99aadc90907578448385d684f9ed136",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-f33cb6ba-6e15-4700-b37d-9ecc959c2563",
+      "file": "public/assets/hair/Veil_Male_Hair_305.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_305.glb",
+      "sourceSha256": "66513502e3adb18ef7b0582e15f2b53d10acf0cfebe3044b58fbcae5f5106904",
+      "editingSha256": "407384375da1cbdbd8669a42fa258c12019ef24098b08a284d349cd209c4cc9b",
+      "unchangedBinaryChunksSha256": "3df54f5f45523f5a6413ab00bfd5f40f311a4986dac0661fb15ba6cc35279d76",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-7a0153de-a3f7-4961-ad86-cc57d9ad1909",
+      "file": "public/assets/hair/Veil_Male_Hair_306.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_306.glb",
+      "sourceSha256": "e68b1733a6a0318fe02f80e6d00d9ac00e096e548f6cd5e788d75749481460e8",
+      "editingSha256": "09fb88deaddade0a4c19ad19ff5897109514df017715ebd22e39b428bab63063",
+      "unchangedBinaryChunksSha256": "a810836610ddb7efb1182a4782110ef338269609d4dbfbae19dcc251d6b34e0a",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-679f1446-7e1a-4d3e-94a0-13e97fe05aab",
+      "file": "public/assets/hair/Veil_Male_Hair_307.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_307.glb",
+      "sourceSha256": "6017e012cec83717f546d03a452e190e5e1ba03ac29883958a6edf9ed8354f36",
+      "editingSha256": "1bce66fb6b49079cb27653cc39e9c3a1bc59fd0331cf8d1f9012057c7f91c333",
+      "unchangedBinaryChunksSha256": "bb5134aaf853a8308fa542fca99862ae7ff5de89ca355db335a365dc7e0cbc0a",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-ba4f75cd-0b09-4125-8780-c5baac9e6ee2",
+      "file": "public/assets/hair/Veil_Male_Hair_308.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_308.glb",
+      "sourceSha256": "cba02eb8bab0ccc7ecdb0f4f4a85b1447f2e8181d1932b7213f685a377e035f9",
+      "editingSha256": "17cc6e3c68acc4c0e6b755d36b187e7c77f0c72decf476a28a66d9b5a15d743e",
+      "unchangedBinaryChunksSha256": "11e5a96b46aee0cddec0a658601948bd56ac34ef7df60f65ffab0d464bfa0e5d",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-f07d211b-6c3d-4ac0-a88b-d5a8b625a3f2",
+      "file": "public/assets/hair/Veil_Male_Hair_309.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_309.glb",
+      "sourceSha256": "69a29346881f651802f3bea4a230499be280d63f0e0efaba91bd75d348f7e7c8",
+      "editingSha256": "a81b17013ccf6ab5d94d00efe804b543023b5974d894825c0562f3851b4df36c",
+      "unchangedBinaryChunksSha256": "9bf7dc36cc9c01ef39d02fc95d75f9062bcc61f257dbfb1954574400dfb914bb",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-2cdb6b3a-13d3-4cc0-818b-4c9503566841",
+      "file": "public/assets/hair/Veil_Male_Hair_310.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_310.glb",
+      "sourceSha256": "a12ecadd899d89ac3eeb5d06f2c4597577a37be82ba035d4a0310ba3accf345f",
+      "editingSha256": "795a95402e538b012870eb26f9a707c35168314d50a81cd79a56d9ab07c80891",
+      "unchangedBinaryChunksSha256": "be1ed9f9a2311d10bbad0bb905fe2a131ad3ff1ad4f174f690bf64baf0e0f10b",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-6bfd606f-fd8c-42c2-aad9-bf0ace7cbd40",
+      "file": "public/assets/hair/Veil_Male_Hair_311.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_311.glb",
+      "sourceSha256": "b142652861fa6617c1b1b307671bb3081115e98d3faa3ede1faced8dfe99b880",
+      "editingSha256": "28ff87d02a3d519f627ce920d2bf2599a3cd1485d627674c228224d2e826b679",
+      "unchangedBinaryChunksSha256": "58d3b388b21ab74c4b64210ffe3f1685ca46bec965c62b6b89abe210c09b3f96",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-cc045716-060d-4e5d-be71-46ffc1f6a67d",
+      "file": "public/assets/hair/Veil_Male_Hair_312.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_312.glb",
+      "sourceSha256": "6d4554f871d53f8cb443d3294255cadefa29e6227a22f79cd95f1040d4067adf",
+      "editingSha256": "d54b4e8ace3a7e147ac20400c81a3f596148623c2de132e117dabd25e42aa962",
+      "unchangedBinaryChunksSha256": "a084692f9fb36ba3553edb149bc6e90911a0dcf482dcb73ff25088020f100300",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-f81848f7-bb3a-45f9-aab4-a3d2010d00ba",
+      "file": "public/assets/hair/Veil_Male_Hair_313.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_313.glb",
+      "sourceSha256": "734397a3220c5058b697466f50254b209271b5a764992b4cb67ebb9a35d958ea",
+      "editingSha256": "dda5b5491a7e0442360eab0a37f1d0ab4c784a4c72f64b6f144a935cdefefdad",
+      "unchangedBinaryChunksSha256": "9ae2f1f423f5cd51deaa0095d3b77d027ef6e0a4a3efe33e08c23a5217944eb5",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-3a1616fd-7b9e-4ede-8149-4ac549bdc698",
+      "file": "public/assets/hair/Veil_Male_Hair_314.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_314.glb",
+      "sourceSha256": "0a3287311e0ca6b8f4ba1a0504471c877ecf3980df9b0750c9f4280c68185c22",
+      "editingSha256": "608785a7373fbc0c300db68857dfb9b48f6bc8ed44820d9f21e2315b359575cb",
+      "unchangedBinaryChunksSha256": "b81f69996fcb31c476020064ad201bb85650ddee6f2a5302e10cf8ff32fb1526",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-cd5c47cf-6919-4b0f-9c64-3e0bec4de49c",
+      "file": "public/assets/hair/Veil_Male_Hair_316.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_316.glb",
+      "sourceSha256": "e3358324c0f2fbcdd25643187c9283f6c166f782bd1bd59285d110aee9791b1c",
+      "editingSha256": "dd99b660e337c14d024c9f71aaa19b73b796184031b22815069dcd3a5155c205",
+      "unchangedBinaryChunksSha256": "555bb9e7f0d0aa6547e22a71626bf1a312a7b1399c08746f9cc6e2ec51203ebf",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-03cac284-de89-409c-a975-ce08fa70be7f",
+      "file": "public/assets/hair/Veil_Male_Hair_317.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_317.glb",
+      "sourceSha256": "5fd48eb867a05f771ec1fc55fb2443296d3bded4ebf6bbee0116a9db30aa73db",
+      "editingSha256": "c59e326fa61eeeaf31597dbee99ded702b11bcf3b5f9cc5fc88586b916a37056",
+      "unchangedBinaryChunksSha256": "6d1ca8074f2ea6eb992bb72aa0c72a845a39c283aa23c6c4461319cf4dc89294",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-e985c538-6239-4a8a-ac9b-16fc8c875e45",
+      "file": "public/assets/hair/Veil_Male_Hair_318.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_318.glb",
+      "sourceSha256": "60b7a36981b90de84c25542b2c95457ddac6b928819c9f084edd95d8a9010158",
+      "editingSha256": "d7ddd89ef9651dfcc59c13fa3fc58bb0496188b758ee176423d28ce49ceee935",
+      "unchangedBinaryChunksSha256": "4d8df68c649214e712d98adb5fdc22da4ddd3d92e5529f1c9e9fbd057b20baaa",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-9d876b18-bbdf-40a7-9b0a-ace0a59a28de",
+      "file": "public/assets/hair/Veil_Male_Hair_401.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_401.glb",
+      "sourceSha256": "3b0ead17e9352235e0f14958223710c2ad5962bb368caab2d40a5411141b8274",
+      "editingSha256": "2d231283c2a818225c3f3c87d7cedd94ec0235393085f009b323209d963de9f2",
+      "unchangedBinaryChunksSha256": "aa99d29810544e334a444fc82ff7cf71824117d3a3be0aef5d10ef2705e8c506",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-1a3a95be-5782-4671-9abb-a4d77dc8ce0f",
+      "file": "public/assets/hair/Veil_Male_Hair_402.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_402.glb",
+      "sourceSha256": "2d1446477c39454177155e6846220fab81eb803f79d595c03cb322c0dfac67c6",
+      "editingSha256": "f6b9bfd4a9da3e1e986f9a539962d8edac0159e53a43db8e9e353017c2eff5d2",
+      "unchangedBinaryChunksSha256": "9a3367d1b7596135fa966c6837146257d17d8433873c4bd4cbae089acd5dced8",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-d22413ab-2c6f-4c71-a19a-15e4fb71b2e8",
+      "file": "public/assets/hair/Veil_Male_Hair_403.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_403.glb",
+      "sourceSha256": "63a2f767bab3fe70c089f2dcdaea0d78af6d4332de4917ec1713d4925e320dc4",
+      "editingSha256": "c5429c6b12cdb7dd4ee35c5d9ff0f3a556508e92b259e2c484daf0da49cee3df",
+      "unchangedBinaryChunksSha256": "dda75d7f51b7836569c570736af0c0d627d26a2a8ff3bf60e54a01d80c0c7bde",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-05f7ad04-f604-4462-8e6e-00637adf0f93",
+      "file": "public/assets/hair/Veil_Male_Hair_404.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_404.glb",
+      "sourceSha256": "3d9b46f9e65655f3536b2a98b83902974da4b1483e71edab1c4e33cdec063c07",
+      "editingSha256": "eb40e19aba24e79091ef1723c21f7f7ba64af1f546018afcb128f1d5d4834d57",
+      "unchangedBinaryChunksSha256": "af6342352af9dc6ae0ea3aedc988c132f393997d19f6bc3a1ee3daf014cc514e",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-b7243e2c-2dc3-4f8c-9c77-1cf3d21b5809",
+      "file": "public/assets/hair/Veil_Male_Hair_405.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_405.glb",
+      "sourceSha256": "00f61047767747ffacef046fb9566b4ec29e455e4f4e7f148a62834587d74fba",
+      "editingSha256": "79dc5128683dfdda99148d2cd74a95d1c56b84c988e496d5dfcd0c05253437d8",
+      "unchangedBinaryChunksSha256": "7215ebe3a822852e7ee4840f50a437c1165c355dd506e154211d7ec0c781bdb5",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-91de9ff5-26d1-4d1b-ba8d-a10248f5ed4b",
+      "file": "public/assets/hair/Veil_Male_Hair_406.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_406.glb",
+      "sourceSha256": "3a02bb89398bb8e0001b72f886923eb859ee50f44c1bb49f43e1d2e3e8453efe",
+      "editingSha256": "9f1d98819ef26e9ca4f262c51baa4c89d89320005ed8f919c3ec9f088909b86c",
+      "unchangedBinaryChunksSha256": "1f0f682c7ad1c878395116aa4f5682dbcfcbf58ec8bb5f4be45cb06d8db61a6e",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-493f79ef-78fb-492a-8872-47905b82deb6",
+      "file": "public/assets/hair/Veil_Male_Hair_407.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_407.glb",
+      "sourceSha256": "b9ebcffc91573ecaf4364b6fa8585ed844c3f0b5eb3095e5b04cf84b08efc219",
+      "editingSha256": "a6df7ff5e4fd3911a0b42ec2684fbe97e09b422a1281a89002e457e7b58c0b4e",
+      "unchangedBinaryChunksSha256": "4ccbd9e6e2c5b21682d8f111e9207a623186723bde40b37c946d1f1ac107b81c",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-a2e9b739-cd0f-4f83-a358-7a6f02672101",
+      "file": "public/assets/hair/Veil_Male_Hair_408.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_408.glb",
+      "sourceSha256": "450d6a92598cc2b2a28d2776939408b1cac905de74268b5287a5dacc5f8a3c41",
+      "editingSha256": "c62a8c982471b77833b2c733ed042373a2d2d54cd069f4b64a749f92462fa3be",
+      "unchangedBinaryChunksSha256": "98360d723ebb4e435b7505f487e22313cfd0d38241be6dcce484c0c4a70a7b1c",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-1ff2d444-cb33-4b75-9280-b74985f6e11f",
+      "file": "public/assets/hair/Veil_Male_Hair_412.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_412.glb",
+      "sourceSha256": "628d90fe8ba4e97b9259f371697a482b6be6a00e42f9080957257c160d09b9ba",
+      "editingSha256": "1b1fcbf5743cdfb1de3bb02d819328760e80abf76f64e842a98a3583b5b23e53",
+      "unchangedBinaryChunksSha256": "0ecc83ba70b980592a865ce9fc74d32d2051de5fc9a6d49c4e913f4777f674cf",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-eb3fb0d3-e81c-48bb-9f98-4f13b45b3537",
+      "file": "public/assets/hair/Veil_Male_Hair_413.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_413.glb",
+      "sourceSha256": "66343cb60b6de0a7dd605c3dea46e4b528c22c2a5971f58ad1b097b0be0b1e36",
+      "editingSha256": "aaff77cfb7b241b7a879bf7b7671b1b48659f51022be960b799d92395ee4357d",
+      "unchangedBinaryChunksSha256": "5b4a0e0c8e2dddc9af8cfbe6b44f53508b49bd976e2a2fb6fa37a23c7dfddcd6",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-25f3ab4b-80c3-4d68-ac68-6772cd597eaa",
+      "file": "public/assets/hair/Veil_Male_Hair_414.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_414.glb",
+      "sourceSha256": "db4ababe07d239c2ce6cf6c7efcfa92557047fc64415517102cfe67ae1b3dc38",
+      "editingSha256": "9e790b768810f2847ac88f4b2e35ab82dde88520e32b3df17c79d7af75a8f043",
+      "unchangedBinaryChunksSha256": "4b7d41ff2e3515e8f2f4ec21e95d5a2e7863fc3eb9514c5f1eb76bebf55707ab",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-ea955453-3dbb-4229-8e3e-40d94f6a2ee0",
+      "file": "public/assets/hair/Veil_Male_Hair_415.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_415.glb",
+      "sourceSha256": "54562c45c89d8b6fa9d9de93ed5dba6f2523fe3fb002d09ffdfcc1ddab24631f",
+      "editingSha256": "821250d51611c4dc955ba8fe24f324cedbfa31e978352c92da1cacc058184693",
+      "unchangedBinaryChunksSha256": "785f5dae26cf292b74657d67d1f36355979548e8118184b38d6813400c5504f9",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-3050c06e-18cc-4436-8648-3b8fb827650b",
+      "file": "public/assets/hair/Veil_Male_Hair_416.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_416.glb",
+      "sourceSha256": "9bcbfa37721d787808a2e15e30c2bf06c7a9d72a9c8616d3f8be5cabea6f7f2e",
+      "editingSha256": "833a497fdeb8d335e7e78b943ab3faec12598724700a966ca060ac0057bfabb5",
+      "unchangedBinaryChunksSha256": "76d64cbf3a7241461cd000034318e963f01fa74150c0cdb6e1c29d3f18e7a770",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-b84c129a-304a-45aa-a94f-fd6a1feade59",
+      "file": "public/assets/hair/Veil_Male_Hair_417.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_417.glb",
+      "sourceSha256": "6b374a8f44aea15d29d34bb6f1bdad459b07a4a23ecc5012f882b10fd4676bb3",
+      "editingSha256": "f44f8a4064f86219ba45c63ceb52201c40e6c2d7e6ee4b850ff40193a3bf0082",
+      "unchangedBinaryChunksSha256": "3e7f42580dd1e093cdef68381e70da3ddb9faf35bbb7d793db37863ad0d8d7fc",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-4ebd0df4-052f-450f-a538-0cfdbdfa8de2",
+      "file": "public/assets/hair/Veil_Male_Hair_418.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_418.glb",
+      "sourceSha256": "b7a944360ea1ea5f9bdac9607b29125a1125c7a70241b1cd04ee137d6f7c548e",
+      "editingSha256": "d2cd74c6f8711fb04875e261a534edb5f4771684c22b75bab5511a8647c6d828",
+      "unchangedBinaryChunksSha256": "c9c9ccc54085e85265472dffe2d7d625ae43c6d34a154ffb2a3a908fe292589c",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-8bdbdb8a-01a6-466d-97c5-b50f76f95201",
+      "file": "public/assets/hair/Veil_Male_Hair_802.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_802.glb",
+      "sourceSha256": "2687b649f8b8cc2d8c9fafa35409be364691c29ffa9541c4cccdcd7480cb6608",
+      "editingSha256": "3ffaba709c34ffe27303f2971078a95102c66a57b7585c5e47b4cd3758f71c48",
+      "unchangedBinaryChunksSha256": "231913b1d38d48f89e4c587b29a2dc70423433535bc2ea9840b93d089580fd0c",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-25562289-7a2c-45ae-b697-e041100f704b",
+      "file": "public/assets/hair/Veil_Male_Hair_804.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_804.glb",
+      "sourceSha256": "97672266ac1da269106e15a682bbadc09fc1b91f68f3a408f2694e880413ae8b",
+      "editingSha256": "8e4278e7d8cf41c5de5b037aa91ea80d8efcb7dfb7871a61baab32fffaf7dcc1",
+      "unchangedBinaryChunksSha256": "17a76c6276eb803e0c633ef317a885270546ec3c4cb8531f7c0cd414151269e5",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-b91cc0d4-1b22-4322-8828-c9f83aee943f",
+      "file": "public/assets/hair/Veil_Male_Hair_805.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_805.glb",
+      "sourceSha256": "e5b1812b07bde804745f70ccf958411ffe3cdff8b9c190329ce8b0d32c75670a",
+      "editingSha256": "84c0ccff00ba8d8a50ce6f4f42ceddd81708dd1351e8b3bf8d1198495dc9a144",
+      "unchangedBinaryChunksSha256": "a6f295949f89104d4eaed51c79ab3ee385070d6d7f69260fa9032ffde3f13095",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-0139cb2b-a7c5-4e2d-a9a3-64df9f702c7b",
+      "file": "public/assets/hair/Veil_Male_Hair_806.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_806.glb",
+      "sourceSha256": "b576a80effb5de4c3f6b56f0c1b0b97536a775aef7c8adbde0473309359504bd",
+      "editingSha256": "fda286ff89d5212338361eaeaddafa0c3eaad7d34dd6b96d7778565a9081d5ce",
+      "unchangedBinaryChunksSha256": "d90f26210a92923fc12ba76efb5377fdb35e0a4ab147e2acb3804f81201cf2d7",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-ef27bfb1-e342-4454-94ce-62d4a908f404",
+      "file": "public/assets/hair/Veil_Male_Hair_808.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_808.glb",
+      "sourceSha256": "c489821685617f2f81fcd9e2cee6a7586cda1fff3e685508c990146620e46bcf",
+      "editingSha256": "6d1bfe4372c402081d95fd5b5fdb68d84f71e217ea88a163db79edc64ab0084d",
+      "unchangedBinaryChunksSha256": "d060f382915c77c93dedc5304ef186b7816510b66320911ec5e0662ce070f0f8",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-27c0f83e-de59-40fc-a7a7-52499c94eb61",
+      "file": "public/assets/hair/Veil_Male_Hair_809.glb",
+      "sourceFile": "public/assets/hair/Veil_Male_Hair_809.glb",
+      "sourceSha256": "034f540d530baee4686604f624440cca69e6b4678f061391db52ef018bcd7ffe",
+      "editingSha256": "6fc494c348bc305519360cb9fb8d051b2a61689a38f41a0296219353cf919242",
+      "unchangedBinaryChunksSha256": "447b6409502438a333b384be69db62954b79aada71898fb1e86b349d22d17369",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-26b0251d-f50c-4749-bad3-aa963ed73f65",
+      "file": "public/assets/Veil_Female_BaseBody.glb",
+      "sourceFile": "public/assets/Veil_Female_BaseBody.glb",
+      "sourceSha256": "a4ec4130e59bb9a67081ac0efef71185cb82e8d46b5e51a6bff4e5f9009dd4d4",
+      "editingSha256": "cdd4bb4641c0e239c0841b9aac03154cf5ef115ae8d595dd99e995c93fcfae2e",
+      "unchangedBinaryChunksSha256": "29611331876b983d76085da9e1dd8a15ab1c9c4bcab0cd01a88ebddadc8f5cf1",
+      "attribution": {
+        "/asset/generator": "Read-only source-game native buffer recovery",
+        "/asset/extras/source": "loaded source-game archives; native morph data and texture references",
+        "/extras/source": "Loaded source-game LOD0 CPU buffers"
+      }
+    },
+    {
+      "editingModelId": "veil-edit-a6408b8b-6bdf-4f42-866e-5a320f0c9af1",
+      "file": "public/assets/Veil_Female_BaseBoots.glb",
+      "sourceFile": "public/assets/Veil_Female_BaseBoots.glb",
+      "sourceSha256": "c0a904fb03f944512b9fcde51dc3412441b846154fb4371b87a7c7fbd4abc1fa",
+      "editingSha256": "50a187570004388c6291db6a3fe5a1153ab08ee69387e96be1b1eab3e4ebb842",
+      "unchangedBinaryChunksSha256": "92ab02d75e9deefaa5d14c332a50508c84a37cfdefe46bf11440376faaf2b15e",
+      "attribution": {
+        "/asset/generator": "Read-only source-game native buffer recovery",
+        "/asset/extras/source": "loaded source-game archives; native morph data and texture references",
+        "/extras/source": "Loaded source-game LOD0 CPU buffers"
+      }
+    },
+    {
+      "editingModelId": "veil-edit-c6011950-6ec6-416e-bc07-5e22ea0e9508",
+      "file": "public/assets/Veil_Female_BasePants.glb",
+      "sourceFile": "public/assets/Veil_Female_BasePants.glb",
+      "sourceSha256": "5c7b398868d79cf7d921a5280bfd34dc1a7e5c46dcda8edda734c1bf65c68987",
+      "editingSha256": "fbac7db704104f1179b09256dde0ca8819363a384d0c10a08ea1c017c05519df",
+      "unchangedBinaryChunksSha256": "710f42306090584b901af2768f5fc5763b8c51bc81e21d0688286e3cfae2a8d6",
+      "attribution": {
+        "/asset/generator": "Read-only source-game native buffer recovery",
+        "/asset/extras/source": "loaded source-game archives; native morph data and texture references",
+        "/extras/source": "Loaded source-game LOD0 CPU buffers"
+      }
+    },
+    {
+      "editingModelId": "veil-edit-cbaf0dc2-08a8-4082-a28b-fc1661d3634c",
+      "file": "public/assets/Veil_Female_Head_001.glb",
+      "sourceFile": "public/assets/Veil_Female_Head_001.glb",
+      "sourceSha256": "a3afd6e452287f430cea2680a43e79eb8f427bbe60d66575864867edf54b43b3",
+      "editingSha256": "af0df9ff10510403ba3f43f1c57439c7533458f0c223c74afcd34ec331ae03fe",
+      "unchangedBinaryChunksSha256": "e07149c0c1a2a076b1fb974adc5f7122b3bbe71e58b973029fd20ffd509e05f2",
+      "attribution": {
+        "/asset/generator": "Character Studio asset pipeline",
+        "/asset/extras/source": "loaded head, native morph targets, original material references"
+      }
+    },
+    {
+      "editingModelId": "veil-edit-bc7c946c-b230-4a08-9a19-5c89a8406384",
+      "file": "public/assets/Veil_Female_Head_005.glb",
+      "sourceFile": "public/assets/Veil_Female_Head_005.glb",
+      "sourceSha256": "92a3e6330e03760b098cd6e0e0e144d4ac55128ecc79f3c62e31b9bd0c5c7013",
+      "editingSha256": "b674d3d97e3ff9156bfd2e3e6038158d8c17e2b64bc4d72f2e717b726fbfef4f",
+      "unchangedBinaryChunksSha256": "dd8fc7e9faddb9dbac937b56d7112cd064c9696c620ea71e4bbae52d88729042",
+      "attribution": {
+        "/asset/generator": "Character Studio asset pipeline",
+        "/asset/extras/source": "loaded head, native morph targets, original material references"
+      }
+    },
+    {
+      "editingModelId": "veil-edit-20ae6d24-80e4-4c0e-ac0d-781efe766cc1",
+      "file": "public/assets/Veil_Female_Head_013.glb",
+      "sourceFile": "public/assets/Veil_Female_Head_013.glb",
+      "sourceSha256": "5d0f29843c8e47e63b1c465e35e1e6a9422c40e307ccfdcf68261c89719cd701",
+      "editingSha256": "ddcd8af7074ecbffde2ed29eacabbcd046a0616a9af0cc28930a78a3740718f4",
+      "unchangedBinaryChunksSha256": "2cd3fa61e1a6e718b112daf4ee7a67ac5ac3501b2522f0f8c41678a4e0f292a3",
+      "attribution": {
+        "/asset/generator": "Character Studio asset pipeline",
+        "/asset/extras/source": "loaded head, native morph targets, original material references"
+      }
+    },
+    {
+      "editingModelId": "veil-edit-cc0938e5-ba35-46b9-9592-78116a96f41e",
+      "file": "public/assets/Veil_Female_Head_039.glb",
+      "sourceFile": "public/assets/Veil_Female_Head_039.glb",
+      "sourceSha256": "ccdbb5aef58cbc88bb548fd165f86e5f8a3eb0249a0d92af2939fd752ee20714",
+      "editingSha256": "a8d55afbbc372fd45e1123a4e4a0e630e787af2dca01ca1dc4f8903ca37f7e98",
+      "unchangedBinaryChunksSha256": "3273a53d3d100194e96ff3bc900d9d02e286d48efa4641edc901d1600f48fdbc",
+      "attribution": {
+        "/asset/generator": "Read-only source-game native buffer recovery",
+        "/asset/extras/source": "loaded source-game archives; native morph data and texture references",
+        "/extras/source": "Loaded source-game LOD0 CPU buffers"
+      }
+    },
+    {
+      "editingModelId": "veil-edit-5942b438-ce94-4835-ad3f-3cbca043eb30",
+      "file": "public/assets/Veil_Female_OriginalSkin.glb",
+      "sourceFile": "public/assets/Veil_Female_OriginalSkin.glb",
+      "sourceSha256": "5a2dfd2d26c93d59f0f94dc7a521573e63afb37bc730da9e87a8d40e3d93d2d3",
+      "editingSha256": "f96ff659b0d12a27f18efd201e38026d12ff894ae411db911069d89bf48fcd2d",
+      "unchangedBinaryChunksSha256": "2cd6ad7c7e908b6e96b30f7f00b76d2f91c4d72b1be5953c4371ab1b0a249af0",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": "",
+        "/asset/extras/reconstruction": "Existing Veil body proportions and rig preserved. Local chest and external pelvic details fitted using user-supplied Gloria as an anatomical reference; continuous skin shading at coverage joins."
+      }
+    },
+    {
+      "editingModelId": "veil-edit-bdcc7368-3e86-43e3-b875-30a6562742a8",
+      "file": "public/assets/Veil_Female_SkinFull.glb",
+      "sourceFile": "public/assets/Veil_Female_SkinFull.glb",
+      "sourceSha256": "4b5ef6fa7050b1160fdd717fac656dafcbbc15456cbb6139d013fe6a5cc54595",
+      "editingSha256": "b7572a3f2f2a8635579662bae30d4f0d41080aeaf42e13eb1f8d89cc6b6f39db",
+      "unchangedBinaryChunksSha256": "e1511353a3f85fa67ec283af0ec4ce9e1ce3d41039500708338c0633307e2b23",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-37bfc761-1725-4c33-bd61-cd2cc947a82f",
+      "file": "public/assets/Veil_Female_Underwear_01_Body.glb",
+      "sourceFile": "public/assets/Veil_Female_Underwear_01_Body.glb",
+      "sourceSha256": "b738aaf83a22d301faf7e13299d458d6c8d5098625c94b0e06c46765c7c1049d",
+      "editingSha256": "d16876801b6a955ad85201d120cf02091cfd233eb73b44c603a3123fc8caddca",
+      "unchangedBinaryChunksSha256": "27a0d7daff997fb5fcbe6423b2350ace6de5c7d5bc7a289c54139fce65c3543a",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-fa21916e-e13c-4fb5-b681-bf4cb81e6998",
+      "file": "public/assets/Veil_Female_Underwear_01_Pants.glb",
+      "sourceFile": "public/assets/Veil_Female_Underwear_01_Pants.glb",
+      "sourceSha256": "83e9b3c877d27b178e3756bfa665e198b0732d94f44f4bcd95b66f25ef74d3e5",
+      "editingSha256": "6b9172e66f7ac081c715e86790c9bc25f8e851e32d996e6f0df7c1e955d40c47",
+      "unchangedBinaryChunksSha256": "ac295c7155ef7ec2ec1c4f4e382f349886cd11c9dd1f362504dee447fa37269e",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-412b1d8a-fa42-4ee9-8b9c-6641c1d08541",
+      "file": "public/assets/Veil_Male_BaseBody.glb",
+      "sourceFile": "public/assets/Veil_Male_BaseBody.glb",
+      "sourceSha256": "781cf12688a0a74761251fdb73a02e79fadb7668ea17746cd9c4931e2c1441a0",
+      "editingSha256": "ed043a7aca4f33d532e835a87ec674689debed2cc229666f3611657ec6fcd386",
+      "unchangedBinaryChunksSha256": "b5846601a555ca5d78e59896fafa800a60453f543960b7c27606a368e472cf24",
+      "attribution": {
+        "/asset/generator": "Read-only source-game native buffer recovery",
+        "/asset/extras/source": "loaded source-game archives; native morph data and texture references",
+        "/extras/source": "Loaded source-game LOD0 CPU buffers"
+      }
+    },
+    {
+      "editingModelId": "veil-edit-24e94ac0-3896-488f-aa50-63261e2eb11c",
+      "file": "public/assets/Veil_Male_BaseBoots.glb",
+      "sourceFile": "public/assets/Veil_Male_BaseBoots.glb",
+      "sourceSha256": "94989f593dddc19590b08e49d445166940eb6bb081bacaf815e599ed64da8789",
+      "editingSha256": "331f3d6d8554c3ddbc0a8432fd460bf3d1ecd5921e47a673d2c0bee40de41b97",
+      "unchangedBinaryChunksSha256": "acdf632726c145b128fb800de535e4c76b84a8a8db9512a1aed2b677e1018298",
+      "attribution": {
+        "/asset/generator": "Read-only source-game native buffer recovery",
+        "/asset/extras/source": "loaded source-game archives; native morph data and texture references",
+        "/extras/source": "Loaded source-game LOD0 CPU buffers"
+      }
+    },
+    {
+      "editingModelId": "veil-edit-3fc0c8fb-a228-42be-9069-895afeb6fb6f",
+      "file": "public/assets/Veil_Male_BasePants.glb",
+      "sourceFile": "public/assets/Veil_Male_BasePants.glb",
+      "sourceSha256": "f6b6d0f0884860250fc45c742462e6640347501025bd78e2b7d0aa1cde769806",
+      "editingSha256": "f3cb56610420b6cd7545efcde8191734b3091d2a0f928346db48276f722a68b2",
+      "unchangedBinaryChunksSha256": "5d7f0cfa03c95864105a6dcfe9de312fbf633fbd258ef3faca2ba53e2b43dd83",
+      "attribution": {
+        "/asset/generator": "Read-only source-game native buffer recovery",
+        "/asset/extras/source": "loaded source-game archives; native morph data and texture references",
+        "/extras/source": "Loaded source-game LOD0 CPU buffers"
+      }
+    },
+    {
+      "editingModelId": "veil-edit-d8b404c9-7b7d-42c4-ac9e-deed18f52ef0",
+      "file": "public/assets/Veil_Male_Head_001.glb",
+      "sourceFile": "public/assets/Veil_Male_Head_001.glb",
+      "sourceSha256": "74e0f5621f23e37194a7da964afe49bb4d15e7dd88551567ad22d3ca8c69301e",
+      "editingSha256": "4d0e91b7f852fa0376b35e2e1f090eeb0b3beb66fc2da5ad7057de3e5b236070",
+      "unchangedBinaryChunksSha256": "c48b15dc55ba511896b91f01034cfdaf70619e10755b59247e96fa3a06757159",
+      "attribution": {
+        "/asset/generator": "Character Studio asset pipeline",
+        "/asset/extras/source": "loaded head, native morph targets, original material references"
+      }
+    },
+    {
+      "editingModelId": "veil-edit-a9570ca1-e341-4671-a321-2b8a5199b0cc",
+      "file": "public/assets/Veil_Male_Head_005.glb",
+      "sourceFile": "public/assets/Veil_Male_Head_005.glb",
+      "sourceSha256": "11b7d1ba9c2f0e39006bda423194cabb1079efabb43d39878366bb90491ac6d4",
+      "editingSha256": "f0dc00752dc9c075da3b92e9fcb76d8255999f5389022ac162d977ae93252dba",
+      "unchangedBinaryChunksSha256": "861f82bd0b4b3e4ca79a86e6469c8f856db308570a4e66068669e0df9dcd1c77",
+      "attribution": {
+        "/asset/generator": "Character Studio asset pipeline",
+        "/asset/extras/source": "loaded head, native morph targets, original material references"
+      }
+    },
+    {
+      "editingModelId": "veil-edit-c757fd3b-cd08-4fce-b21b-fb62f988b1d7",
+      "file": "public/assets/Veil_Male_Head_007.glb",
+      "sourceFile": "public/assets/Veil_Male_Head_007.glb",
+      "sourceSha256": "c217d6b5af1199ea652e17806b5a2368ca587ad250384e49bb231ded6440ef62",
+      "editingSha256": "ab1201a741a445d8c36f6c04ddd61ab3ed2fc905989ac6bf995815434a5fc7ef",
+      "unchangedBinaryChunksSha256": "04835b4943a87092b03b5483db0483d675d6093b10976db582e95d4e8c25ec4c",
+      "attribution": {
+        "/asset/generator": "Character Studio asset pipeline",
+        "/asset/extras/source": "loaded head, native morph targets, original material references"
+      }
+    },
+    {
+      "editingModelId": "veil-edit-dcf775c4-24cf-47e3-ba5f-a0196def35e3",
+      "file": "public/assets/Veil_Male_Head_013.glb",
+      "sourceFile": "public/assets/Veil_Male_Head_013.glb",
+      "sourceSha256": "3f4f4ff6249ca7f6a925db7ac5339003aa3cd251a8b0489f78939b471d38a83d",
+      "editingSha256": "be153628645b77500f9c086ca991693425b5a7d05e08a0ab0677a5f67222de91",
+      "unchangedBinaryChunksSha256": "fbd86ccb16c4b36a886e1e89f4eb0f2fdcbc9ddd5f2cadd224226ce2877e5622",
+      "attribution": {
+        "/asset/generator": "Character Studio asset pipeline",
+        "/asset/extras/source": "loaded head, native morph targets, original material references"
+      }
+    },
+    {
+      "editingModelId": "veil-edit-3f9b41f7-8b5b-4ca3-b9ee-0b2fa7495a56",
+      "file": "public/assets/Veil_Male_Head_021.glb",
+      "sourceFile": "public/assets/Veil_Male_Head_021.glb",
+      "sourceSha256": "4854c85baad9180dafd12a089c1d4c1e20f8f0d7592dfdf3911edb6c5cac891b",
+      "editingSha256": "444d9c5d7593e7a539861c0bf5ef71fe24cadb076f42d716977f78a7f80aab53",
+      "unchangedBinaryChunksSha256": "16a104abb0f52f53c86763ed9859c0d291d7e42de93808cba2c1efa802fe740d",
+      "attribution": {
+        "/asset/generator": "Read-only source-game native buffer recovery",
+        "/asset/extras/source": "loaded source-game archives; native morph data and texture references",
+        "/extras/source": "Loaded source-game LOD0 CPU buffers"
+      }
+    },
+    {
+      "editingModelId": "veil-edit-36db69a3-010c-449f-b65d-b0fdc98b9226",
+      "file": "public/assets/Veil_Male_Head_039.glb",
+      "sourceFile": "public/assets/Veil_Male_Head_039.glb",
+      "sourceSha256": "45a6706884fa7a86d2865fec9d2492c2b70038382fd2324c270e2e8d82fbf426",
+      "editingSha256": "5a8652de10c9951454648ea3041878d7d028e6c70b39a8ba933d11786898d443",
+      "unchangedBinaryChunksSha256": "01e3d4e0e235e681b4aa6c5daa68ddc27bc49efdd6ce7f3a48f50344e3e9e136",
+      "attribution": {
+        "/asset/generator": "Character Studio asset pipeline",
+        "/asset/extras/source": "loaded head, native morph targets, original material references"
+      }
+    },
+    {
+      "editingModelId": "veil-edit-f298b9e8-728a-4dfd-bf83-bcebaff84620",
+      "file": "public/assets/Veil_Male_OriginalSkin.glb",
+      "sourceFile": "public/assets/Veil_Male_OriginalSkin.glb",
+      "sourceSha256": "8de2619dfba5e327709cb223dc95ebeb815ce3f8f61ceb4edaabe4d44351d571",
+      "editingSha256": "ce56b28dab114ae2ac42118431b9ac887b562db94e4362fd66947e3d7dc98598",
+      "unchangedBinaryChunksSha256": "010e2c688b51dce283067e460f44802caad217a6260d3a80f884a50070e9269d",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": "",
+        "/asset/extras/reconstruction": "Original loaded skin, unchanged vertices and weights; local covered-surface patches and authored adult anatomical details."
+      }
+    },
+    {
+      "editingModelId": "veil-edit-dc615e14-5caf-4c0f-a0b7-b79a1546affe",
+      "file": "public/assets/Veil_Male_SkinFull.glb",
+      "sourceFile": "public/assets/Veil_Male_SkinFull.glb",
+      "sourceSha256": "ffb32f7fb5a3dd19a52cabff1576894a53f34f860718840c40d4c1c63e2afc91",
+      "editingSha256": "6774581d6960dbec1b3c74769596df8f16568fabeedf01b2e22630a3d5672e19",
+      "unchangedBinaryChunksSha256": "74f0c045bfe9472159c593cf8cf7a6f1c8132cca14094d0a4dc32b305cc6adaa",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-e7244a2b-d04d-4ae2-87b8-faa8a3b428b4",
+      "file": "public/assets/Veil_Male_Underwear_01_Body.glb",
+      "sourceFile": "public/assets/Veil_Male_Underwear_01_Body.glb",
+      "sourceSha256": "0ab6a499a4d42b23a9699ee742d24cc9590b4ee712212a784f329ee147096706",
+      "editingSha256": "a455113dd3b10e0cff5cec4e0fa4b08f4fa35a20b916dfec34071d0a102cd706",
+      "unchangedBinaryChunksSha256": "b264da5241371fa52162d2abe61ea3685f61c1f73856293be5ebd3f64deb3acc",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    },
+    {
+      "editingModelId": "veil-edit-87834651-a0ad-4b3f-8c43-7abc867bfa34",
+      "file": "public/assets/Veil_Male_Underwear_01_Pants.glb",
+      "sourceFile": "public/assets/Veil_Male_Underwear_01_Pants.glb",
+      "sourceSha256": "212071896f15580c4fbb638b192a813e3a26386832b9e19a05f3c795e35ef928",
+      "editingSha256": "5c2225997ac8a33054219863aef739d2db02a0ed6d5756db9abef232dd69145e",
+      "unchangedBinaryChunksSha256": "aaf003deaf528feeb5c0bb1c771518b1ccc0e84e68f4a32f8f5b3955a0f48e01",
+      "attribution": {
+        "/asset/generator": "SharpGLTF 1.0.0+5153478a209ca2e276d8092f7166ff9d7ae4974f",
+        "/asset/copyright": ""
+      }
+    }
+  ],
+  "sourceReference": "Previous local Veil Media Studio runtime library; original files are identified by sourceSha256."
+}
