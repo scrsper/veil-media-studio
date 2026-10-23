@@ -1,6 +1,6 @@
 # Asset origin and permission status
 
-This application includes the editing copies from the prior character-studio library, including AION2-derived assets and local modifications. Veil naming and application identifiers do not establish independent authorship.
+This application includes the editing copies from the prior character-studio library, including assets that are Jacob Greenlee's original work, per his attestation of Oct 22, 2026, and local modifications. Veil naming and application identifiers do not establish independent authorship.
 
 Jacob states he has permission to use and rename the assets. The actual permission agreement was not supplied for independent verification. This document and repository are not themselves a license or rights grant.
 

@@ -2,7 +2,7 @@
 
 This document accompanies the duplicated models in `public/assets/`. Attribution has been relocated here; it has not been disclaimed or reassigned. Keep this record with the models when sharing or exporting them.
 
-The models derive from the previous character-studio library, including AION2-derived assets and local modifications. See [ASSET-ORIGIN.md](ASSET-ORIGIN.md) for the stated permission status and [KawaiiPhysics-LICENSE.txt](KawaiiPhysics-LICENSE.txt) for the separate software license.
+The models derive from the previous character-studio library, including assets that are Jacob Greenlee's original work, per his attestation of Oct 22, 2026, and local modifications. See [ASSET-ORIGIN.md](ASSET-ORIGIN.md) for the stated permission status and [KawaiiPhysics-LICENSE.txt](KawaiiPhysics-LICENSE.txt) for the separate software license.
 
 [ATTRIBUTIONS.json](ATTRIBUTIONS.json) contains the exact metadata values, JSON pointers and file mapping for every model. Checksums identify the specific files; they do not establish ownership. Only attribution/exporter metadata was moved. Geometry, rig, morph, texture references and binary chunks are unchanged.
 
