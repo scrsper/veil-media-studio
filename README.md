@@ -52,6 +52,6 @@ Run `npm test` for input/media logic checks and `npm run build` for the compiled
 
 ## Asset records
 
-This application uses the metadata-externalized editing copies. Geometry, rigs, morphs, textures and runtime settings are unchanged from the preceding creator. Attribution/exporter metadata is preserved in the companion documents, which should accompany the models. See [ASSET-ORIGIN.md](ASSET-ORIGIN.md) for origin and stated permission status. Repository access is not itself an asset license grant. [KawaiiPhysics-LICENSE.txt](KawaiiPhysics-LICENSE.txt) retains the separate software license.
+This application uses the metadata-externalized editing copies. Geometry, rigs, morphs, textures and runtime settings are unchanged from the preceding creator. Attribution/exporter metadata is preserved in the companion documents, which should accompany the models. Repository access is not itself an asset license grant. [KawaiiPhysics-LICENSE.txt](KawaiiPhysics-LICENSE.txt) retains the separate software license.
 
 Existing art limitations remain, including some skin seams, hair intersections and preset thumbnail differences. Live visual validation and physical-controller acceptance are pending; automated checks are not a substitute for rendering review.
